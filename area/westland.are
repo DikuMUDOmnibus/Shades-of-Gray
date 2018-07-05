@@ -1,0 +1,2500 @@
+#AREADATA
+Name Westland~
+Builders arwen~
+VNUMs 10000 10050
+Credits Xavier~
+Security 9
+LevelRange 40 90
+End
+
+#MOBILES
+#10001
+gar long tail гар~
+@eng a long-tailed gar@rus ~~длиннохвостый~~ ~~гар~~~
+@eng A long-tailed Gar stalks you deep in the woods.
+@rus Длиннохвостый гар (gar) подкрадывается к тебе из-за деревьев.
+~
+@eng You see a giant flesh-eating beast that hunts by the sense of
+smell. Your blood must be sweet because it has spotted you and is
+running in your direction. YOU'D BETTER ACT FAST!
+@rus Огромное чудовище плотоядным взглядом осматривает окрестности, принюхиваясь 
+к витающим в воздухе запахам, в поисках следующей жертвы. Особо сладок для
+него будет вкус твоей окровавленной плоти, так что, лучше поскорее покинуть 
+это место, не привлекая к себе лишнего внимания.
+~
+dragon~
+ABFT Vb -1000 0
+60 0 50d10+6750 10d10+4000 8d6+28 acbite
+-30 -30 -30 0
+BCDEFIKMN AB IJKO HQY
+stand stand male 300
+c L huge unknown
+#10002
+gar long tail гар~
+@eng a long-tailed gar@rus ~~длиннохвостый~~ ~~гар~~~
+@eng A long-tailed Gar stalks you deep in the woods.
+@rus Длиннохвостый гар (gar) подкрадывается к тебе из-за деревьев.
+~
+@eng You see a giant flesh-eating beast that hunts by the sense of
+smell. Your blood must be sweet because it has spotted you and is
+running in your direction. YOU'D BETTER ACT FAST!
+@rus Огромное чудовище плотоядным взглядом осматривает окрестности, принюхиваясь
+к витающим в воздухе запахам, в поисках следующей жертвы. Особо сладок для
+него будет вкус твоей окровавленной плоти, так что, лучше поскорее покинуть
+это место, не привлекая к себе лишнего внимания.
+~
+dragon~
+ABFT Vb -1000 0
+46 0 25d10+3250 10d10+3000 6d6+16 acbite
+-16 -16 -16 4
+BCDEFIKMN AB IJKO HQY
+stand stand male 300
+c L huge unknown
+#10003
+gar long tail гар длиннохвостый~
+@eng a long-tailed gar@rus ~~длиннохвостый~~ ~~гар~~~
+@eng A long-tailed Gar stalks you deep in the woods. 
+@rus Длиннохвостый гар (gar) подкрадывается к тебе из-за деревьев.
+~
+@eng You see a giant flesh-eating beast that hunts by the sense of
+smell. Your blood must be sweet because it has spotted you and is
+running in your direction. YOU'D BETTER ACT FAST!
+@rus Огромное чудовище плотоядным взглядом осматривает окрестности, принюхиваясь
+к витающим в воздухе запахам, в поисках следующей жертвы. Особо сладок для
+него будет вкус твоей окровавленной плоти, так что, лучше поскорее покинуть 
+это место, не привлекая к себе лишнего внимания.
+~
+dragon~
+ABFT Vb -947 0
+46 0 25d10+3250 10d10+3000 6d6+16 acbite
+-16 -16 -16 4
+BCDEFIKMN AB IJKO HQY
+stand stand male 300
+c L huge unknown
+#10004
+fly blood муха кровавая~
+@eng a blood fly@rus ~~кровавая~~ ~~муха~~~
+@eng A little annoying insect is waiting to suck your blood.
+@rus Маленькое надоедливое насекомое (fly) кружит вокруг тебя, пытаясь ужалить.
+~
+@eng You see a deformed little bug that has giant teeth waiting to
+penetrate your skin.
+@rus Бесформенный маленький жучок с острыми зубками, жаждущий твоей теплой крови.
+~
+unique~
+ABT BGJTVb -200 0
+40 0 25d10+1850 10d10+3000 4d8+13 shbite
+-13 -13 -13 5
+BCEFKO EJL J KM
+stand stand male 300
+0 0 tiny unknown
+#10005
+assassin квод наемник quad~
+@eng a quad assassin@rus ~~наемник~~ из квода~
+@eng A member of the quad assassins is here.
+@rus Наемник (assasin), один из квода, стоит перед тобой, не давая пройти.
+~
+@eng You see a dangerous man wearing heavy armor and weapons. He seems
+to be an assassin-type man with one thought in mind. KILL KILL
+KILL!
+@rus Перед тобой великолепно экипированный и вооруженный мужчина опасного вида,
+в чьих пустых глазах светится лишь жажда убийства и крови.
+~
+human~
+ABT Vb -1000 0
+55 0 50d10+5500 10d10+3000 10d4+23 wrath
+-25 -25 -25 0
+BCDEFGHIKNUV AH BL J
+stand stand male 300
+0 0 large unknown
+#10006
+assassin квод наемник quad~
+@eng a quad assassin@rus ~~наемник~~ из квода~
+@eng A member off the quad assassins is here.
+@rus Наемник (assasin), один из квода, стоит перед тобой, не давая пройти.
+~
+@eng Toy see a dangerous man wearing heavy armor and weapons. He seems
+to be an assassin-type man with one thought in mind. KILL KILL
+KILL!
+@rus Перед тобой великолепно экипированный и вооруженный мужчина опасного вида,
+в чьих пустых глазах светится лишь жажда убийства и крови.
+~
+human~
+ABT Vb -1000 0
+56 0 50d10+6000 10d10+3000 10d4+24 wrath
+-25 -25 -25 0
+BCDEFGHIKNUV AH BL J
+stand stand male 300
+0 0 large unknown
+#10007
+lady девушка молодая young~
+@eng a young lady@rus ~~молодая~~ ~~девушка~~~
+@eng There is a nice young lady picking flowers from her garden.
+@rus Прелестная молодая девушка (lady) гуляет по саду, собирая цветы.
+~
+@eng You see a young lady picking flowers from her garden.
+@rus Ты видишь милое юное создание с обаятельной улыбкой. Она спокойно
+выбирает цветы для букета, не обращая на тебя ни малейшего внимания.
+~
+human~
+ABT Nb 850 0
+46 0 25d10+3250 10d10+3000 6d6+16 slap
+-16 -16 -16 4
+BCDEFGHIK AI 0 0
+stand stand female 300
+0 0 medium unknown
+#10008
+fisherman man рыбак мужчина~
+@eng a fisherman@rus рыбак~
+@eng You see a clam fisherman waiting for his catch of the day.
+@rus Задумчивый рыбак (fisherman) спокойно занимается своим обычным делом.
+~
+@eng He is a tall man who seems to enjoy fishing. It looks like he
+would like to catch some fish to take home.
+@rus Высокий хорошо сложенный мужчина, искренне наслаждающийся своим делом. Он 
+неспеша складывает улов в корзину, чтобы потом отнести его домой.
+~
+human~
+ABT Nb 1000 0
+50 0 25d10+4250 10d10+3000 5d8+19 slap
+-20 -20 -20 0
+BCDEFGHIK AI 0 0
+stand stand male 300
+0 0 medium unknown
+#10009
+boy мальчик маленький little~
+@eng a little boy@rus ~~маленький~~ ~~мальчик~~~
+@eng There is a little boy playing in the sand.
+@rus Маленький мальчик (boy) играется в песке.
+~
+@eng You see a little boy building sand-castles in the sand. The sand
+is perfect for his castles and you feel like you want to join
+him.
+@rus Ты видишь перед собой совсем маленького мальчика, который увлеченно строит
+песочный замок. Он делает это так увлеченно и захватывающе, что и тебе 
+хочется присоединиться к нему.
+~
+human~
+ABT Nb 1000 0
+50 0 25d10+4250 10d10+3000 5d8+19 punch
+-20 -20 -20 0
+BCDEFGHIK AI 0 0
+stand stand male 300
+0 0 small unknown
+#10010
+hound гончая сердца heart~
+@eng a heart hound@rus ~~гончая~~ сердца~
+@eng There is a deadly heart hound drooling all over himself.
+@rus Гончая сердца (hound) осматривается вокруг.
+~
+@eng This is on of the most deadly beast whom have escaped from the
+boundary. You better watch out, you know not what type of powers
+he has at his use. This beast is very deadly. They call them
+heart hounds since when they attack they lunge at your heart.
+Others say they can hear your heart beating.
+@rus Беспощадное чудовище, пришедшее из мира смерти, чтобы нести разрушение и
+сееять смерть в этом мире. Неясно, что оно может и есть ли предел его 
+способностям -- и от этого вдвойне страшно. Говорят, они охотятся, 
+ориентируясь на стук сердца жертвы.
+~
+unique~
+AFGT UVZb -1000 0
+55 0 50d10+5500 10d10+3000 10d4+23 acbite
+-25 -25 -25 0
+BCDEFGHIKNO 0 0 0
+stand stand male 300
+0 0 huge unknown
+#10011
+speaker оратор~
+@eng a speaker@rus оратор~
+@eng There is a speaker giving a speech to the crowd of listeners.
+@rus Оратор (speaker) собрал вокруг себя кружок единомышленников.
+~
+@eng He is a tall man who appears to have a great athority over the
+villagers. He is giving a great speach about fire and the deadly
+losses of it. He is wearing white pants and shirt. He doesn't
+look like an evil person. He speech seems to bore you and you
+want to get on your way.
+@rus Высокий мужчина выступает перед собравшимися. По его уверенности в себе 
+можно заключить, что он пользуется большим авторитетом в этом городке. Одет
+он в белые брюки и рубашку, без всякого намека на претензии. В его взгляде
+виден искренний интерес к нуждам собравшихся. Ты слышишь, как он рассуждает
+о вреде, наносимом пожарами и о людях, ежегодно погибающих в них.
+~
+human~
+AFGT UVZb 1000 0
+60 0 50d10+6750 10d10+4000 8d6+28 smash
+-30 -30 -30 0
+BCDEFGHIKNO A 0 0
+stand stand male 300
+0 0 medium unknown
+#10012
+villager селянин счастливый happy~
+@eng a happy villager@rus ~~счастливый~~ ~~селянин~~~
+@eng There is a really happy villager here.
+@rus Селянин (villager) улыбается, глядя в твою сторону.
+~
+@eng As you pass by this villager he says "Hello" and gives you a big
+kiss. you beging to wonder if he is drunk or just plain out of
+his mind! 
+@rus Действительно счастливый человек. При твоем приближении он весело крикнул
+тебе привет и одарил горячим поцелуем. Это было столь странным для тебя, 
+что тебя посетила мысль о том, уж не пьян ли он и все ли с ним в порядке.
+~
+human~
+AFGT UVZb 1000 0
+60 0 50d10+6750 10d10+4000 8d6+28 smash
+-30 -30 -30 0
+BCDEFGHIKN A 0 0
+stand stand male 300
+0 0 medium unknown
+#10013
+healer доктор~
+@eng a healer@rus доктор~
+@eng The town healer is here.
+@rus Городской доктор (healer) задремал в ожидании посетителей.
+~
+@eng She is a tall women who seems to enjoy healing people. She has
+beautiful long hair and is wearing a white dress that reaches
+down to the floor. Her head is held up high and she has a nice
+smile on her face.
+@rus Высокая стройная женщина с прекрасными длинными волосами, одетая в белое
+платье, нисподающее до земли мягкими складками. На ее лице играет улыбка
+и ты начинаешь улыбаться вместе с ней.
+~
+human~
+ABQ FH 1000 0
+106 0 1d1+29000 1d1+11039 4d50+80 slap
+-99 -99 -99 -40
+KN ABINS BPQR 0
+stand stand female 0
+0 0 medium unknown
+#10014
+warden страж границы boundary~
+@eng a boundary warden@rus ~~страж~~ границы~
+@eng A strong, powerful boundary warden is here.
+@rus Мрачный страж (warden) занят своим нелегким делом.
+~
+@eng You see one of the toughest, strongest, and tallest man you have
+ever seen. He is about 7'6 inches and is 8 times your wieght. He
+is clad with weapons and armor and looks prepared for battle. It
+is a good thing that he has a friendly character.
+@rus Ты первый раз видишь человека такого могучего телосложения. Он просто склад
+всяческого оружия и, сразу видно, всегда готов к битве. Но в остальном
+обычный человек, добрый и дружелюбный.
+~
+human~
+AGT DFHJUVb 1000 0
+70 0 50d10+9750 10d10+4000 8d10+40 acbite
+-40 -40 -40 -10
+BCDEFGHIJKN ABE BH C
+stand stand male 300
+0 0 large unknown
+#10015
+thief воришка~
+@eng a thief@rus воришка~
+@eng A small thief is here trying to steal your money.
+@rus Маленький воришка (thief) пытается срезать у тебя кошелек.
+~
+@eng You see a little thief that is all dressed in black ready to
+steal your money when your not looking. He is wearing black pants
+and boots and is barely noticable in the shadows of the
+buildings.
+@rus Маленький невзрачный человек, одетый во все черное, чтобы слиться с тенью.
+В его глазах горит нешуточная жажда наживы и он только и ждет, чтобы 
+ограбить неосторожного путника.
+~
+human~
+ACT CDGPQVd -902 0
+40 0 25d10+1850 10d10+3000 4d8+13 blast
+-13 -13 -13 5
+BCDEFGHIJKN 0 0 0
+stand stand male 300
+0 0 small unknown
+#10016
+beggar попрошайка~
+@eng a beggar@rus попрошайка~
+@eng There is a ugly little beggar asking for your money here.
+@rus Оборванный уличный попрошайка (beggar) дергает тебя за рукав, выпрашивая пару монет.
+~
+@eng *sigh* If there aren't thieves steeling your money there are
+beggars asking for it. You feel sorry for the poor little fellow.
+It is a shame that it will be soon winter and that he has no
+place to live. OH WELL, life goes on.
+@rus Грязный оборванный попрошайка пытается вытянуть из тебя последние монетки.
+Его жалкий вид вызывает чувство растерянности и вины. Как можно было до 
+такого дойти? До чего же все-таки может человек докатиться.
+~
+human~
+ABCH DVb 100 0
+46 0 25d10+3250 10d10+3000 6d6+10 blast
+-16 -16 -16 4
+BCDEFGHIJKN AB 0 0
+stand stand male 300
+0 0 medium unknown
+#10017
+woman женщина эди bone~
+@eng The Bone Woman@rus Эди~
+@eng A interesting woman is here fooling around with some bones.
+@rus Странная женщина (woman) стоит неподалеку от тебя.
+~
+@eng This womans' eyes are very white. You wonder if she can see you.
+When you enter the room she welcomes you and asks you to stay for
+a visit. There is a bone necklace around her neck. When you see
+it, in your mind you hear; "I must have that necklace!" The woman
+will not give it to you so I guess you're going to have to fight
+her for it!
+@rus Глаза этой женщины необычайно белые, каких не увидишь у обыкновенного
+человека. Видимо, она слепая, но это не мешает ей ощущать твое присутствие
+и следить за передвежениями. На шее у нее необычное костяное ожерелье.
+~
+human~
+ABR CDEFJTV 1000 0
+109 0 1d1+29999 1d1+9382 5d50+90 magic
+-93 -93 -90 -43
+CDEFIKN IP E JK
+stand stand female 11300
+0 0 medium unknown
+#10018
+gripper хватало~
+@eng a nasty gripper@rus хватало~
+@eng There is a nasty, little gripper waiting to attack you.
+@rus Хватало (gripper) поджидает удобного момента, чтобы напасть на тебя.
+~
+@eng You see an armor covered gripper with sharp long teeth.  He looks
+really hungry so if I were you I would keep away from this beast.
+He is a deadly under ground beast that will fix himself upon you
+and suck your blood until you are dead. Better watch out for this
+guy even though he is slower than a turtle.
+@rus Страшная тварь, у которой вся спина покрыта броней, а брюхо сплошь утыкано
+шипами. У нее жутко много ног, каждая из которых заканчивается острым    
+длинным когтем. Ее рот полон отвратительных зубов. И она так и норовит
+вцепиться тебе в ногу.
+~
+human~
+ACGT JV -986 0
+92 0 50d10+19500 10d10+5200 15d10+62 blast
+-62 -62 -62 -29
+CDEFIKN IP E J
+stand stand none 300
+0 0 medium unknown
+#10019
+shadow thing тень странная~
+@eng the scary shadow thing@rus ~~странная~~ ~~тень~~~
+@eng Here is a real SCaRy Shadow THinG that is ready to kill you.
+@rus Странная тень (shadow) уже приготовилась напасть на тебя.
+~
+@eng This is a very scary ghost that will kill you with one touch. He
+was sent by Panis Rahl, Darkens father in that last war. He is
+very dangerous so I would keep my distance if I were you.
+@rus Жуткое привидение, чье единственное прикосновение будет для тебя смертельным.
+Ты вспоминаешь, что таких чудовищ использовал Паниз Рал в последней войне.
+Лучше будет держаться подальше от этого опасного существа.
+~
+human~
+ABCGT JV -1000 0
+99 0 50d10+29000 10d10+3029 4d50+80 wrath
+-69 -69 -69 -30
+CDEFIKN IP F JK
+stand stand none 300
+0 0 medium unknown
+#10020
+king призрачный король spirit~
+@eng the spirit king@rus ~~призрачный~~ ~~король~~~
+@eng Here stands the great spirit king, blocking you passage.
+@rus Призрак (spirit) загородил тебе дорогу.
+~
+@eng This ghostly king has increadable powers and will not allow you
+to pass. He must have been sent by Darken Rahl himself. You
+should go back the other way, since this king will not allow you
+to exit the Narrows through this direction. He is the master of
+the underworld and will not stop at anything to let you pass.
+@rus Этот призрак очень силен и решительно настроен никуда тебя не пустить.
+Он послал самим Даркеном Ралом. Так что, придется вернуться назад и поискать
+другой путь, раз нельзя пройти этой дорогой.
+~
+human~
+ABCGT JVu -1000 0
+119 0 50d10+29000 10d10+10203 20d15+100 wrath
+-77 -77 -70 -40
+CDEFIKN IP 0 JK
+stand stand male 300
+0 0 medium unknown
+#10021
+dragon дракон красный скарлет scarlet great red~
+@eng Scarlet@rus Скарлет~
+@eng You see a giant dragon that Darken Rahl uses to fly around.
+@rus Большой красный дракон (dragon) лежит в стороне от дороги.
+~
+@eng This great dragon has massive talons and giant wings. It would be
+bad to get on its evil side for it is far, far bigger then other
+dragons. The dragon is clad in heavy scales that cover every
+ounce of his body. He looks far tougher than any monster you have
+or will ever see.
+@rus Очень крупный дракон с массивными когтями и огроиными крыльями. Он выглядит 
+очень могучим, но также голодным и злобным. Это самое большое из виденных
+тобой живых существ.
+~
+dragon~
+ABCGT Gu -1000 0
+119 0 50d10+29000 10d10+10203 20d15+100 wrath
+-77 -77 -70 -40
+BCEFIKN IP IJK JK
+stand stand female 300
+c L giant unknown
+#10022
+shadow people призрак~
+@eng an evil shadow person@rus призрак~
+@eng An evil shadow person is here.
+@rus Призрак (shadow) смотрит на тебя, ожидая твоих действий.
+~
+@eng You see a dark form that has no features. He is sent by Darken
+Rahl to stop you. Beware, his touch is poison. 
+@rus Темная фигура с размытыми очертаниями, излучающая могильный холод.
+~
+human~
+ACGT GJ -1000 0
+110 0 50d10+28000 10d10+10203 20d15+95 wrath
+-77 -77 -70 -40
+CDFIKN IP 0 JK
+stand stand male 300
+0 0 medium unknown
+#10023
+tender бармен человечек толстый маленький bar~
+@eng the bar tender@rus бармен~
+@eng A fat little bar tender is here serving drinks.
+@rus Толстый маленький человечек (bar tender) суетится вокруг.
+~
+@eng He is a short guy with a long beard. He seems quite stupid
+though, his shoes are on the wrong feet. He is wearing torn pants
+and looks to be quite poor, yet he runs this bar.
+@rus Маленький коротышка с длинной бородой. Двольно рассеянный, если судить по 
+тому что он перепутал левый и правый ботинки. 
+~
+human~
+ABCGTe GJ 1000 0
+50 0 25d10+4250 10d10+3000 5d8+19 wrath
+-20 -20 -20 0
+BCDEFIN IP 0 JK
+stand stand male 300
+0 0 medium unknown
+#10024
+drunken villager сельский пьяница~
+@eng a drunken villager@rus ~~сельский~~ ~~пьяница~~~
+@eng There is a drunken villager here, drinking beer.
+@rus Сельский пьяница (villager) потягивает свой эль.
+~
+@eng He is a short guy with ale stains on his shirt. He makes you want
+to vomit.
+@rus Коротышка в забрызганной элем рубахе. Тебе становиться противно при одном
+взгляде на него.
+~
+human~
+ABCGT GJ 102 0
+50 0 25d10+4250 10d10+3000 5d8+19 wrath
+-20 -20 -20 0
+CDEFIKN IP 0 K
+stand stand male 300
+0 0 medium unknown
+#10025
+thief воришка маленький dark~
+@eng a little thief@rus ~~маленький~~ ~~воришка~~~
+@eng There is a theif looking for something to steal here.
+@rus Воришка (thief) оглядывается вокруг с поисках чего-нибудь, что плохо лежит.
+~
+@eng He is a darkly clad thief with a wicked intent. He rests in the
+darkness of the night waiting to prance upon a poor soul like
+you.
+@rus Маленький человек, одетый во все черное. Он практически сливается с темнотой.
+~
+human~
+ACGT GJ -1000 0
+60 0 50d10+6750 10d10+4000 8d6+28 bite
+-30 -30 -30 0
+CDEFKN IP D 0
+stand stand male 300
+0 0 medium unknown
+#10026
+snake желтая змейка~
+@eng a yellow snake@rus ~~желтая~~ ~~змейка~~~
+@eng There is a little yellow snake swimming in the pool of water.
+@rus Маленькая желтая змейка (snake) направляется в твою сторону.
+~
+@eng He is a tiny snake that is hardly visible to the naked eye. He
+swims through the waters up to you. You better get away fast
+before he attacks you and your body is never be found again.
+@rus Очаровательная змейка, крошечная, но от этого не менее опасная. Она 
+направляется в твою сторону и лучше бы тебе уйти, пока не случилось
+чего не поправимого.
+~
+unique~
+ABCGT GJ -1000 0
+30 0 6d12+853 1d1+100 4d6+8 bite
+-9 -9 -9 2
+CDEFIKN IP 0 0
+stand stand male 300
+0 0 small unknown
+#10027
+beast порождение подземного underworld~
+@eng an underworld beast@rus ~~порождение~~ подземного мира~
+@eng There is a underworld beast, looking lost here.
+@rus Порождение подземного мира (beast) предстало перед тобой.
+~
+@eng He has no features at all. Just a plain puff of smoke striking
+people dead as they walk by.
+@rus Какое-то странное создание, о котором нельзя сказать ничего определенного.
+Но ясно одно, его прикосновение будет для тебя смертельным.
+~
+unique~
+ACGT GJ -1000 0
+69 0 50d10+9500 10d10+1000 7d11+39 bite
+-40 -40 -40 -10
+CDEFIKN IP 0 0
+stand stand none 300
+0 0 large unknown
+#10028
+cat dopey котенок маленький одурманенный~
+@eng a dopey little cat@rus ~~маленький~~ ~~одурманенный~~ ~~котенок~~~
+@eng There is a small, dopey cat looking for a place to sleep here.
+@rus Маленький котенок (cat) ищет себе местечко, чтобы поспать.
+~
+@eng This cat is looking through the trash trying to find a simple
+meal to eat, a place to sleep and a place to keep dry. You feel
+sorry for the little fellow but there isn't anything you can do.
+@rus Маленький замученный котенок роется в куче мусора в поисках еды, а также
+места где можно спокойно вздремнуть и привести себя в порядок. 
+~
+unique~
+ACGT GJ 1000 0
+11 0 1d1+130 1d1+100 1d10+2 bite
+1 1 1 9
+CDEFIKN IJP 0 0
+stand stand male 300
+0 0 small unknown
+#10029
+sith морд-сит сит mord~
+@eng Mord-Sith@rus Морд-Сит~
+@eng Here sands the dreadful Mord-Sith waiting to take you as her pet.
+@rus Морд-Сит (Mord-Sith) ждет момента, когда сможет подчинить тебя своей воле.
+~
+@eng This Mord-Sith does not seem to be afraid of you. She has an item
+about her neck that is gleaming in a white aura. This creature is
+very frightening. You better leave quick.
+@rus Пугающая женщина. Она терпеливо ждет, когда спокойно можно будет заняться
+тобой. По ее глазам видно, что искусством причинять боль она владеет в
+совершенстве.
+~
+human~
+ABCGT GJ -1000 0
+120 0 50d10+28000 10d10+10203 20d15+95 wrath
+-77 -77 -70 -40
+CDEFIKN IP I M
+stand stand female 300
+0 0 large unknown
+#10030
+devoter последователь~
+@eng a devoter of Darken Rahl@rus ~~последователь~~ Даркена Рала~
+@eng Here is a devoter chanting something that makes little sense.
+@rus Последователь Даркена Рала (devoter) настороженно глядит на тебя.
+~
+@eng This devoter is chanting words about Darken Rahl. He seems to
+belive thatt Darken Rahl is good and not evil. Better stay away
+from this person also.
+@rus Фанатичный последователь Даркена Рала восторженно рассказывает тебе о своем
+кумире. Он не желает слышать твоих слов и не признает, что его идол вовсе не
+то, чем кажется на первый взгляд.
+~
+human~
+ABCGT GJ -1000 0
+110 0 50d10+28000 10d10+10203 20d15+95 wrath
+-77 -77 -70 -40
+BCDEFIKN IP 0 0
+stand stand male 300
+0 0 medium unknown
+#10031
+rahl рал даркен darken~
+@eng The Evil Darken Rahl@rus Даркен ~~Рал~~~
+@eng Standing before you is your worst nightmare, Darken Rahl.
+@rus Сам Даркен Рал (Rahl) стоит перед тобой.
+~
+@eng You have come all this way and finally you meet up with Darken
+Rahl. This is the moment you have been waiting for all your life!
+You'd best get it over with soon for he seems ready to take over
+the world.
+@rus Ты достиг конца своего пути и увидел его -- великого Даркен Рала, повелителя
+мира живых и мира мертвых. Настал, наконец, тот самый момент, которого ты
+ждал всю свою жизнь.
+~
+human~
+ABCGT DGJu -1000 0
+125 0 50d10+28000 10d10+10203 20d15+95 wrath
+-77 -77 -70 -40
+BCDEFIJKNO LP N K
+stand stand male 300
+0 0 large unknown
+#10032
+gar tail гар short короткохвостый~
+@eng a short-tailed gar@rus ~~короткохвостый~~ ~~гар~~~
+@eng A short-tailed gar stalks you deep in the woods.
+@rus Короткохвостый гар (gar) подкрадывается к тебе из-за деревьев.
+~
+@eng You see a giant flesh-eating beast that hunts by the sense of
+smell. Your blood must be sweet because it has spotted you and is
+running in your direction. YOU'D BETTER ACT FAST!
+@rus Огромное чудовище плотоядным взглядом осматривает окрестности, принюхиваясь 
+к витающим в воздухе запахам, в поисках следующей жертвы. Он еще крупнее
+и кровожаднее своего длиннохвостого сородича.
+~
+dragon~
+ABFT Vbu -1000 0
+70 0 50d10+5000 10d10+4000 8d6+28 acbite
+-30 -30 -30 0
+BCDEFIKMN AB IJKO HQY
+stand stand male 350
+c L giant unknown
+#10033
+mord sith морд-сит denna денна woman женщина~
+@eng Denna@rus Денна~
+@eng Here sands the dreadful Mord-Sith waiting to take you as her pet.
+@rus Женщина (woman), в забрызганном кровью платье, глядит в твою сторону.
+~
+@eng This Mord-Sith does not seem to be afraid of you. She has an item
+about her neck that is gleaming in a white aura. This creature is
+very frightening. You better leave quick.
+@rus Красивая девушка с толстой косой, перекинутой через плечо. Но мрачный огонь,
+горящий в ее глазах, мягко говоря, пугает. Ее одежда забрызгана кровью. Надо
+полагать, она недавно занималась со своим воспитанником.
+~
+human~
+ABCGT GJV -1000 0
+120 0 50d10+30000 10d10+10203 20d15+95 wrath
+-77 -77 -70 -40
+CDEFIKN IP I M
+stand stand female 300
+0 0 large unknown
+#0
+
+#OBJECTS
+#10001
+mace boundary дубинка warden~
+@eng a boundary warden's mace@rus ~~дубинка~~ стража границы~
+@eng A large powerful mace is resting against the wall here.@rus Большая, мрачного вида дубинка (mace) брошена кем-то.~
+unknown~
+weapon ABG AN
+mace 12 7 blast 0
+70 15 1938 P
+A
+19 6
+A
+18 6
+A
+13 20
+A
+2 -1
+E
+warden mace дубинка стража~
+@eng It is a giant mace clad with sharp deadly teeth. It was made for
+the use of killing. This truly is a strong weapon.
+@rus Довольно крупная дубинка, усеянная острыми шипами. Сразу чувствуется, что
+это орудие убийства.
+~
+G none
+#10002
+necklace ожерелье bone~
+@eng the Bone Woman's necklace@rus ~~костяное~~ ~~ожерелье~~~
+@eng A Beautiful necklace lies here on the ground.@rus Красивое ожерелье (necklace), сделанное из костей, кем-то брошено здесь.~
+stone~
+armor AB AC
+30 30 30 20 0
+90 10 98504 P
+A
+13 55
+A
+3 3
+A
+2 3
+E
+bone necklace костяное ожерелье~
+@eng This is a magical necklace that the bone woman HAD around her
+neck. It must be very powerful since the kill took awhile.
+@rus Магическое ожерелье, сделанное из невзрачных с виду косточек каких-то 
+животных. Но за его внешней невзрачностью многое скрывается.
+~
+G none
+#10003
+teeth зубы gripper~
+@eng some grippers teeth@rus ~~острые~~ ~~кривые~~ ~~зубы~~~
+@eng Here are the teeth of the Gripper monster.@rus Острые зубы (teeth), оставшиеся от хватало, валяются тут.~
+stone~
+armor ABM AC
+26 26 27 16 0
+80 10 100 P
+A
+19 6
+A
+1 3
+G none
+#10004
+jug beer кувшин~
+@eng a jug of beer@rus ~~кувшин~~ эля~
+@eng There is a jug of beer on the ground here.@rus Небольшой кувшин (jug) с непонятно чем оставлен кем-то.~
+glass~
+drink BC A
+20 20 'beer' 0 0
+1 1 1 P
+G none
+#10005
+boots black ботинки thief~
+@eng a pair of black boots@rus ~~пара~~ кожаных черных ботинок~
+@eng A dark pair of boots lie here soaking up the sun.@rus Пара черных ботинок (boots) валяется тут, впитывая солнечный свет.~
+leather~
+armor BC AG
+20 20 20 10 0
+60 10 3000 P
+A
+13 -10
+A
+12 30
+A
+1 2
+G none
+#10006
+glove warden gloves рукавицы boundary~
+@eng boundary warden gloves@rus ~~рукавицы~~ стража границы~
+@eng A pair of gloves have been left here, waiting too be picked up.@rus Пара черных рукавиц (gloves) забыта своим хозяином.~
+unknown~
+armor BC AH
+20 20 20 9 0
+60 10 9684 P
+A
+24 -2
+A
+18 8
+A
+1 2
+G none
+#10007
+boot warden boots ботинки boundary~
+@eng boundary warden boots@rus ~~ботинки~~ стража границы~
+@eng A pair of boots have been left here.@rus Армированные ботинки (boots) оставлены тут за ненадобностью.~
+unknown~
+armor BC AG
+21 19 19 10 0
+60 10 9898 P
+A
+22 -3
+A
+19 6
+A
+18 5
+G none
+#10008
+sleeves warden нарукавники boundary~
+@eng boundary warden sleeves@rus ~~нарукавники~~ стража границы~
+@eng A pair of sleeves have been left resting against a tree.@rus Кожаные нарукавники (sleeves) валяются, брошенные хозяином.~
+unknown~
+armor BC AI
+21 20 19 10 0
+60 10 9898 P
+A
+13 20
+A
+2 2
+A
+1 2
+G none
+#10009
+shield warden щит boundary~
+@eng boundary warden's shield@rus ~~щит~~ стража границы~
+@eng A shield made from the finest metal has been left here.@rus Щит (shield), сделанный из превосходной стали, валяется у твоих ног.~
+unknown~
+armor BC AJ
+20 21 20 15 0
+60 10 9898 P
+A
+13 40
+A
+17 -9
+G none
+#10010
+tunic warden плащ boundary~
+@eng boundary warden's tunic@rus ~~плащ~~ стража границы~
+@eng A tunic made from good leather has been left here.@rus Плащ (tunic), сделанный из хорошей кожы, оставлен здесь своим хозаином.~
+unknown~
+armor BC AK
+20 20 20 10 0
+60 10 9898 P
+A
+17 -21
+G none
+#10011
+helmet warden шлем boundary~
+@eng a boundary warden's helmet@rus ~~шлем~~ стража границы~
+@eng A large helmet has been left by its owner...such a shame.@rus Чей-то шлем (helmet) валяется тут, забытый.~
+unknown~
+armor BC AE
+20 20 20 10 0
+60 10 9898 P
+A
+23 -5
+A
+1 2
+G none
+#10012
+ring warden кольцо boundary~
+@eng a boundary warden's ring@rus ~~кольцо~~ стража границы~
+@eng A bright silver ring has been left in the dust.@rus Массивное серебрянное кольцо (ring) кем-то оставлено здесь.~
+unknown~
+treasure BC AB
+0 0 0 0 0
+60 10 9898 P
+A
+13 75
+G none
+#10013
+legging warden leggings штаны boundary~
+@eng boundary warden leggins@rus ~~штаны~~ стража границы~
+@eng A pair of leggings have been left here.@rus Какие-то черные штаны (leggins) оставлены здесь.~
+unknown~
+armor BC AF
+20 20 20 10 0
+60 10 9898 P
+A
+21 -1
+A
+14 30
+G none
+#10014
+robe dark плащ~
+@eng a dark robe@rus ~~темный~~ ~~плащ~~~
+@eng A robe has been left in the shade of a tree here.@rus Темный плащ (robe) непонятного цвета валяется около тебя.~
+cloth~
+armor BC AD
+23 23 22 11 0
+70 10 5060 P
+A
+13 25
+A
+12 50
+G none
+#10015
+collar heart hound ошейник~
+@eng a heart hound collar@rus ~~ошейник~~ гончей~
+@eng A collar has been left sitting in the sun in the middle of a field.@rus Странного вида ошейник (collar) блестит под лучами солнца.~
+unknown~
+armor BC AC
+23 22 22 16 0
+70 10 8080 P
+A
+17 -8
+A
+13 50
+A
+12 50
+G none
+#10016
+pouch magical leather мешочек~
+@eng a magical leather pouch@rus ~~маленький~~ ~~магический~~ ~~мешочек~~~
+@eng A pouch has been left here in the mud.@rus Маленький мешочек (pouch) валяется в грязи.~
+leather~
+container BC A
+700 A 0 350 72
+70 50 1000 P
+G none
+#10017
+cookie пирожок~
+@eng a BIG cookie!@rus ~~вкусный~~ ~~пирожок~~~
+@eng There is a cookie on the ground, what a shame.@rus Маленький пирожок (cookie) валяется на земле.~
+unknown~
+food B A
+DF 0 0 0 0
+8 10 0 P
+G none
+#10018
+cake кусок пирог~
+@eng a BIG piece of cake!@rus ~~кусок~~ пирога~
+@eng A Big Yummy piece of CAKE has been left here.@rus Большой кусок пирога (cake) почему-то валяется на земле.~
+unknown~
+food B A
+BD 0 0 0 0
+1 10 0 P
+G none
+#10019
+sword warden меч boundary~
+@eng a boundary warden's sword@rus ~~меч~~ стража границы~
+@eng A well made sword has been left here.@rus Качественно выкованный меч (sword) почему-то брошен здесь.~
+unknown~
+weapon ABCEJL AN
+sword 9 6 slash 0
+50 30 3500 P
+A
+19 4
+A
+18 4
+E
+boundary sword warden~
+This is a boundary warden sword that is made just for their use.
+~
+G none
+#10020
+flail warden кистень boundary~
+@eng a boundary warden's flail@rus ~~кистень~~ стража границы~
+@eng A flail has been left here.@rus Мрачного вида оружие (flail) валяется возле тебя.~
+unknown~
+weapon ABCEJL AN
+flail 7 7 pound 0
+50 30 3400 P
+A
+19 3
+A
+18 4
+G none
+#10021
+mace warden палица стража границы boundary~
+@eng a boundary warden's mace@rus ~~палица~~ стража границы~
+@eng A mace has been left here.@rus Чья-то палица (mace) оставлено здесь.~
+unknown~
+weapon ABCEIJ AN
+mace 7 7 pound 0
+50 30 2999 P
+A
+18 2
+A
+18 3
+G none
+#10022
+dagger warden кинжал boundary~
+@eng a boundary warden's dagger@rus ~~кинжал~~ стража границы~
+@eng A dagger has been left here.@rus Небольшой, но острый кинжал (dagger) валяется подле тебя.~
+steel~
+weapon ABCEIJ AN
+dagger 5 10 pierce 0
+50 30 2999 P
+A
+19 3
+A
+18 3
+G none
+#10023
+agiel weapon эйджил~
+@eng a mord-sith agiel@rus эйджил~
+@eng A magical weapon has been left here.@rus Странное магическое оружие (agiel) оставлено здесь своей хозяйкой.~
+unknown~
+weapon ABCEGM AN
+exotic 18 7 slash 0
+90 20 9902 P
+A
+19 4
+A
+18 4
+A
+13 20
+A
+12 20
+G none
+#10024
+bracer power браслет~
+@eng the bracer of power@rus ~~магический~~ ~~браслет~~ Рала~
+@eng There is a bracer in the mud here.@rus Браслет (bracer), сделанный из какого-то темного материала, валяется около твоих ног.~
+unknown~
+armor ABC AM
+32 32 33 25 0
+90 20 9000 P
+A
+19 7
+A
+18 7
+A
+13 50
+A
+12 50
+G none
+#10025
+westland sign знак указатель вывеска вестландия~
+@eng a sign@rus ~~небольшой~~ ~~знак~~~
+@eng There is a sign that contains the map of Westlands here.@rus Небольшой, наполовину ушедший в землю знак (sign), на котором нацарапана карта Вестландии.~
+wood~
+furniture A 0
+0 0 0 0 0
+91 90 90 P
+E
+west land westland sign вестландия знак~
+@eng ****************************************************************
+*^\^\        /^/^\^\^\^\      /^\^/^/^/^/^/^\^\^\^\^\^\^\^\^\  * 
+*^\      /^\^/^/^/^\^/^\   N      /^\^\^/^\^\^\^\^/^\^\^\^\    * 
+*     /^\^/^\^/^/^/^/^\    |         /^/^/^/^/^/^\^/^\^\^\^\^\ * 
+*      /^\^\^\^\       W---|---E /^/^/^/^\^\^/^\^\^\^/^\       * 
+* /^/^/^/^\^\^\^\^\^\      |        /^\^\^\^\^\^/^\^/^/^/^/^/^/*
+*^\^/^/^/^/^/^/^/^/^\      S           /^/^/^/^\ T /^/^/^/^/^\ * 
+*^/^/^\^\^/^\^/^/^\        /^/^\^\   /^/^/^\^\^/^\H/^/^/^/^\   * 
+*^\^/^/^/^\^/^/^\                        /^/^/^/^\ E /^\^/^/^/^* 
+*^\^\^/^\^/^\          /^/^\^\        /^/^/^/^B /^/^\^/^\^\^\^/* 
+*^/^/^/^/^/^/^/^\                       /^/^/^\O/^/^/^\^\^/^/^\* 
+*^/^/^\^/^/^/^\   *******************       /^/^U/^/^/^/^/^\^\ * 
+*^/^/^/^/^\       * W E S T L A N D *      /^/^/^N /^\^/^/^\^\^* 
+*^/^/^/^\^/^\     *******************         /^\^D/^\^/^/^/^/^* 
+*^/^\^/^\         /^/^/^\^\           /^\   /^\^/^\A/^\^/^\^\^\* 
+*^/^/^\        /^/^/^/^/^\^\^\      U          /^/^\R /^\^\^\^/* 
+*^/^\      /^/^/^\^\^/^/^\ = /^\^/^\P/^\^\   /^\^/^/^Y /^\^/^\^* 
+*^\      /^/^/^/^\^/^/^/^\===/^/^/^\P/^\^/^\   /^\^\^\^/^\^\^\ * 
+*^\^\           /^/^\^\^\ ==== /^\^\E            /^/^/^/^/^\^\^* 
+*^\^\              /^/^\^\^\ =====  R /^\^\   /^\^\^\^/^/^\^\^\* 
+*/^\    HARTLAND          ======/^\    *         /^/^/^/^/^/^/^* 
+*^/^/^\    *                /^\^/^\ V       /^/^/^/^/^/^\^\^/^\* 
+*^\^\     TRUNT LAKE    /^\^\^\^\^/^E/^\      /^/^\^\^/^\^\    * 
+*^/^\^/^\      *            /^\^/^/^N/^\^\ /^\^/^\^\^\^\^\^\^\^* 
+*^/^\^/^\^/^\                  /^\^/^/^\     /^/^/^/^/^/^/^\   * 
+*^\^/^\       /^\^\^\^/^\        /^\^\^\^\      /^/^\^/^\^/^\  * 
+*^\^/^\         /^/^\^\        /^/^/^\      /^/^\^\^\^\^/^\^\  * 
+*^/^/^/^\            SOUTHAVEN  /^/^\^\       /^/^/^/^/^/^\^\^\* 
+*^/^\^/^\^/^\     /^\    *           /^/^/^\    /^\THE ^/^/^/^\* 
+*^/^/^/^\                                        /^\*NARROWS*^\* 
+*^/^/^\^/^\^\             /^\                       ###########* 
+*^/^\^/^\^\^\^\^\                 /^/^\^\     /^\^/^/^\^/^\^/^\* 
+*^/^/^/^/^/^\^\^\^/^\   /^^\  /^/^/^/^\^/^\    /^\^\^\^\^\^\^\^* 
+**************************************************************** 
+
+@rus ****************************************************************
+*^\^\        /^/^\^\^\^\      /^\^/^/^/^/^/^\^\^\^\^\^\^\^\^\  * 
+*^\      /^\^/^/^/^\^/^\   С      /^\^\^/^\^\^\^\^/^\^\^\^\    * 
+*     /^\^/^\^/^/^/^/^\    |         /^/^/^/^/^/^\^/^\^\^\^\^\ *
+*      /^\^\^\^\       З---|---В /^/^/^/^\^\^/^\^\^\^/^\       *
+* /^/^/^/^\^\^\^\^\^\      |        /^\^\^\^\^\^/^\^/^/^/^/^/^/*
+*^\^/^/^/^/^/^/^/^/^\      Ю           /^/^/^/^\^/^/^/^/^/^/^\ *
+*^/^/^\^\^/^\^/^/^\        /^/^\^\   /^/^/^\^\^/^\^/^/^/^/^\   *
+*^\^/^/^/^\^/^/^\                        /^/^/^/^\^/^/^\^/^/^/^*
+*^\^\^/^\^/^\          /^/^\^\        /^/^/^/^Г /^/^\^/^\^\^\^/*
+*^/^/^/^/^/^/^/^\                       /^/^/^\Р/^/^/^\^\^/^/^\*
+*^/^/^\^/^/^/^\ ***********************     /^/^А/^/^/^/^/^\^\ *
+*^/^/^/^/^\     * В Е С Т Л А Н Д И Я *     /^/^/Н /^\^/^/^\^\^*
+*^/^/^/^\^/^\   ***********************        /^\^И/^\^/^/^/^/*
+*^/^\^/^\         /^/^/^\^\            /^\   /^\^/^\Ц/^\^/^\^\^*
+*^/^/^\        /^/^/^/^/^\^\^\                 /^/^\^А/^\^\^\^/*
+*^/^\      /^/^/^\^\^/^/^\ = /^\^/^\^/^\^\   /^\^/^/^/^/^\^/^\^*
+*^\      /^/^/^/^\^/^/^/^\===/^/^/^\^/^\^/^\   /^\^\^\^/^\^\^\ *
+*^\^\           /^/^\^\^\ ==== /^\^\  ВЕРХНИЙ    /^/^/^/^/^\^\^*  
+*^\^\              /^/^\^\^\ =====   ОХОТНИЧИЙ ^\^\^\^/^/^\^\^\* 
+*/^\    ХАРТЛЕНД          ======/^\    *   ЛЕС   /^/^/^/^/^/^/^*
+*^/^/^\    *                /^\^/^\         /^/^/^/^/^/^\^\^/^\* 
+*^\^\   ТРАНТОВО ОЗЕРО /^\^\^\^\^/^  /^\      /^/^\^\^/^\^\    *
+*^/^\^/^\      *            /^\^/^/^ /^\^\ /^\^/^\^\^\^\^\^\^\^*
+*^/^\^/^\^/^\                  /^\^/^/^\     /^/^/^/^/^/^/^\   *
+*^\^/^\       /^\^\^\^/^\        /^\^\^\^\      /^/^\^/^\^/^\  *
+*^\^/^\         /^/^\^\        /^/^/^\      /^/^\^\^\^\^/^\^\  *
+*^/^/^/^\   ЮЖНОЕ ПРИСТАНИЩЕ  /^/^\^\         /^/^/^/^/^/^\^\^\*
+*^/^\^/^\^/^\     /^\    *           /^/^/^\    /^\    ^/^/^/^\* 
+*^/^/^/^\                                        /^\*ПРОХОД*/^\*
+*^/^/^\^/^\^\             /^\                       ###########*
+*^/^\^/^\^\^\^\^\                 /^/^\^\     /^\^/^/^\^/^\^/^\* 
+*^/^/^/^/^/^\^\^\^/^\   /^^\  /^/^/^/^\^/^\    /^\^\^\^\^\^\^\^*
+****************************************************************
+ 
+~
+G none
+#10026
+sign dhara d'hara дхара д'хара~
+@eng a little sign@rus ~~небольшой~~ ~~указатель~~~
+@eng There is a little sign here showing a map of D'Hara.@rus Еще один знак (sigh) с нарисованной на нем картой Д'Хары скрывается в   тени деревьев.~
+wood~
+furniture A 0
+0 0 0 0 0
+91 90 90 P
+E
+sign d'hara hara знак д'хара хара~
+@eng **************************************************************** 
+*/^/^/^\^\^\^\^/^\^\^\^\^\^\^\^\^/^\ ***********=-=-=- =-=-=-= * 
+*/^\^\^/^\^\^/^\^\^\^\^\^\^\^/^\ -=- *D'H A R A*=-=- =-=-=- =  * 
+*^\^/^/^\^\^/^\^/^\^\^\^\^\ -=- =-=-=***********=-=-=-=- =-=-= * 
+*/^/^/^\^T/^/^\^\^\^\ -=- =-=-=-=-=-=-=-=- =-=-=-=-=- =-=-=-   * 
+*/^/^/^/^\H\^\^\^\   -=-=-=-=-=-=- =-=-=-=-=-=-=-=-=-=-=-=-=-  * 
+*/^/^\^\^\^E/^/^\  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=  * 
+*^\^\^\^B/^/^\^\  =-=-=-=  -=-=-=- =-=-=-=-=- =-=-=-=-=-=-- =- * 
+*/^/^\^\^O/^/^\^\^\ -=  *============================*  -=-=-  * 
+*/^/^/^/^/U/^/^\   =-=  |     /^/^/^/^/^/^/^/^\^\    |  -=-=-= * 
+*/^/^/^/^\^N/^/^\^\ -=  | /^\^\^\^/^/PEOPLE'S/^/^\^\ |   =-= - * 
+*^/^/^/^\^\^D/^\   -=-  | /^\   /^/^\  ***  /^/^\^\^\|  =- =-  * 
+*/^/^/^/^/^\^A/^/^/^\^\ |    /^/^\^\   ***  /^/^\^\^\|   -=-=- * 
+*/^/^\^\^\^\^/R/^/^\ -  | /^/^/^/^/--/PALACE /^/^\^\ |  -=- =  * 
+*/^/^/^/^\^\^\^Y/^/^/^\ |    /^/^|--|^/^/^/^\^\^\    |   =-=-  * 
+*/^/^\^\^\^\^\^\^\^\ -  | /^/^/^\^\--\^\^\^\^\^\     |  -=-=-  * 
+*/^/^\^\^\^\^\^\  =-=-  |   /^/^\^\|--|/^/^\^\^\^\   |  =-=-=- * 
+*/^/^\^\^\^\^\  =-=-=-  *==========*---*=============*   =-    * 
+*/^/^\^\^\    -=-=--=-=-=-=-=-=-=-= |_ | -=- =-=-=-=-=- =-=-=- * 
+*/^/^/^/^\^\^\   =-=-=-=-=-=-=-=-= /_ / -=-=-=-=-=-=-=-=-=- =  * 
+*/^/^/^/^/^\   -=-=-=-=-=-=-=-=-= |__| ==-=-=-=-=-=-=-=-=- =-= * 
+*/^/^/^/^/^/^/^\  =-=-=-=-= =-=-=      =-=-=-=- =-=-=-=-=-=-=- * 
+*/^/^\^\^\^\   =-=-=-=-=-= =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-  * 
+*/^/^\-=-/^\^\^\  =-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=- =-=-=- =-  * 
+*^\^\^\^\^/^\   -==-=-=-=- =-=-=-=-=-=-=- =-=-=-=-=-=- =-=-  /^* 
+*^\^\^/^\^/^\^\  =-=-=-=-=-=-=- =-=-=-=-=-=-=- =-=-=-=-  /^/^/^* 
+*\^\^\^/^  -=-=-=-=- AZRITH =-=-=-=-=-=-=-=-=-=-=-=-=-=   /^/^/* 
+*/^/^/^\ -=-=-=--=-=- PLAINS -=-=-=-=-=-=-=-=-=-=-   /^/^/^/^\^* 
+* THE      -=-=-=-=-=-=-=-=-=-=-=-=-=- =-=-=-=-=-=   /^/^/^\^\^* 
+*########     =-=-=-=-=-=-=-=-=-=-=-=-=-=-=   /^/^/^\^\^/^/^\^\* 
+* NARROWS/^/^\  =-=-=-=-=-=-=-=-=-=-=--  /^/^/^/^\^\^\^\^\^\^\^* 
+*          /^/^\ =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=  /^\^\^\^\^\^/* 
+* /^\^\^\^\^/^/^/^/^\^\=-=/^/^\=--=-/^/^\^\^\^/^\^/^\^/^\^\^\^\* 
+* /^/^/^\=-/^/^/^/^\^/^/^/^\^\=-/^/^\^\^\^/^/^/^\^/^\^/^\^\^\^/* 
+*/^/^/^\=-=-=-=-=-/^\ =-=-= /^\^/^\^\^\^\^/^\^\^/^\^\^\^\^/^/^\* 
+*/^/^\^\^/^\^\^\-=-=-=-/^\^\^\^/^/^/^/^/^\^\^\^/^/^\^/^\^\^/^\^*
+**************************************************************** 
+
+D'Hara.  This is Darken Rahl's home land.
+@rus ****************************************************************
+*/^/^/^\^\^\^\^/^\^\^\^\^\^\^\^\^/^\ ***********=-=-=- =-=-=-= *
+*/^\^\^/^\^\^/^\^\^\^\^\^\^\^/^\ -=- *Д'Х А Р А*=-=- =-=-=- =  *
+*^\^/^/^\^\^/^\^/^\^\^\^\^\ -=- =-=-=***********=-=-=-=- =-=-= * 
+*/^/^/^\^/^/^\^\^\^\ -=- -=-=-=-=-=-=-=-=- =-=-=-=-=- =-=-=-   *
+*/^/^/^/^\^\^\^\^\   -=-=-=-=-=-=- =-=-=-=-=-=-=-=-=-=-=-=-=-  * 
+*/^/^\^\^\^/^/^\   -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=  *  
+*^\^\^\^Г/^/^\^\  =-=-=-=  -=-=-=- =-=-=-=-=- =-=-=-=-=-=-- =- * 
+*/^/^\^\^Р/^/^\^\^\ -=  *============================*  -=-=-  *
+*/^/^/^/^/А/^/^\   =-=  |     /^/^/^/^/^/^/^/^\^\    |  -=-=-= *
+*/^/^/^/^\^Н/^/^\^\ -=  | /^\^\^\^/^/НАРОДНЫЙ/^/^\^\ |   =-= - *
+*^/^/^/^\^\^И/^\   -=-  | /^\   /^/^\  ***  /^/^\^\^\|  =- =-  * 
+*/^/^/^/^/^\^Ц/^/^/^\^\ |    /^/^\^\   ***  /^/^\^\^\|   -=-=- *
+*/^/^\^\^\^\^/А/^/^\ -  | /^/^/^/^/--/ДВОРЕЦ /^/^\^\ |  -=- =  *
+*/^/^/^/^\^\^\^/^/^/^\  |    /^/^|--|^/^/^/^\^\^\    |   =-=-  *
+*/^/^\^\^\^\^\^\^\^\ -  | /^/^/^\^\--\^\^\^\^\^\     |  -=-=-  *
+*/^/^\^\^\^\^\^\  =-=-  |   /^/^\^\|--|/^/^\^\^\^\   |  =-=-=- *
+*/^/^\^\^\^\^\  =-=-=-  *==========*---*=============*   =-    *
+*/^/^\^\^\    -=-=--=-=-=-=-=-=-=-= |_ | -=- =-=-=-=-=- =-=-=- * 
+*/^/^/^/^\^\^\   =-=-=-=-=-=-=-=-= /_ / -=-=-=-=-=-=-=-=-=- =  *
+*/^/^/^/^/^\   -=-=-=-=-=-=-=-=-= |__| ==-=-=-=-=-=-=-=-=- =-= *
+*/^/^/^/^/^/^/^\  =-=-=-=-= =-=-=      =-=-=-=- =-=-=-=-=-=-=- *
+*/^/^\^\^\^\   =-=-=-=-=-= =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-  *
+*/^/^\-=-/^\^\^\  =-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=- =-=-=- =-  * 
+*^\^\^\^\^/^\   -==-=-=-=- =-=-=-=-=-=-=- =-=-=-=-=-=- =-=-  /^*
+*^\^\^/^\^/^\^\  =-=-=-=-=-=-=- =-=-=-=-=-=-=- =-=-=-=-  /^/^/^*
+*\^\^\^/^  -=-=-=-=- РАВНИНЫ -=-=-=-=-=-=-=-=-=-=-=-=-=   /^/^/*
+*/^/^/^\ -=-=-=--=-=- АЗРИТА -=-=-=-=-=-=-=-=-=-=-   /^/^/^/^\^* 
+* /^\      -=-=-=-=-=-=-=-=-=-=-=-=-=- =-=-=-=-=-=   /^/^/^\^\^* 
+*########     =-=-=-=-=-=-=-=-=-=-=-=-=-=-=   /^/^/^\^\^/^/^\^\*
+* ПРОХОД ^/^\  =-=-=-=-=-=-=-=-=-=-=--  /^/^/^/^\^\^\^\^\^\^\^\*
+*          /^/^\ =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=  /^\^\^\^\^\^/* 
+* /^\^\^\^\^/^/^/^/^\^\=-=/^/^\=--=-/^/^\^\^\^/^\^/^\^/^\^\^\^\*
+* /^/^/^\=-/^/^/^/^\^/^/^/^\^\=-/^/^\^\^\^/^/^/^\^/^\^/^\^\^\^/*
+*/^/^/^\=-=-=-=-=-/^\ =-=-= /^\^/^\^\^\^\^/^\^\^/^\^\^\^\^/^/^\*
+*/^/^\^\^/^\^\^\-=-=-=-/^\^\^\^/^/^/^/^/^\^\^\^/^/^\^/^\^\^/^\^*
+****************************************************************
+ 
+Д'Хара. Там, среди бескрайних равнин Азрита, находится Народный
+Дворец -- резиденция великого Магистра Рала.
+
+~
+G none
+#0
+
+#ROOMS
+#10001
+@eng Path by a lake@rus Тропинка вдоль озера~
+@eng You are walking beside a beautiful lake that is crystal
+clear. There is a fresh breeze in the air and the trees are
+rocking freely. You feel as though you are entering a new world
+but you're still in Shades of Gray. The lake to your right is crystal
+clear and calm. There are a family of ducks floating by seeming
+not to notice you. The woods around you are flled with deer,
+birds, and other animals. The trees are tall and lush, leaving
+not much room for the sun to enter into these sacred lands. The
+path continues to the north and, of course, where you came from,
+the south.
+@rus Тропинка идет вдоль озера с кристально чистой водой. Легкий свежий ветерок
+шумит в кронах деревьев и пытается унести твой плащ. По зеркальной глади
+озера разбегаются круги от важно проплывшего в камыши серого селезня. 
+Старые ивы устало склонили к воде свои ветки. Рядом с тобой раздается
+какой-то шорох -- еще одна белка что-то потащила в свою кладовку. Мир
+и спокойствие царят вокруг.
+~
+0 0 forest
+D0
+@eng To the thick forest.
+@rus Вековой лес.
+~
+~
+Z 0 10002
+D2
+@eng The long dusty trail.
+@rus Тропа, ведущая непонятно куда.
+~
+~
+Z 0 18002
+S
+#10002
+@eng A clearing in the woods@rus Просека в лесу~
+@eng As you come out of the forest you enter a clearing in the
+woods. This clearing isn't very big but it sure is good to see
+the sun again. There are two large signs nailed on a tree leading
+back into another forest. You wonder what the sign says and go to
+take a closer look.
+@rus Немного пройдя по лесу, ты выходишь на просеку. Неширокая, но, надо
+полагать исправно выполняющая свои функции. А как приятно снова
+подставиться нежным согревающим лучам солнышка. Отовсюду доносится
+пение птиц, слышится шорох лесных зверушек. Все заняты своими делами: 
+заготовки на зиму, охота за завтраком или старание не стать этим самым
+завтраком.
+~
+0 0 forest
+D0
+@eng The entrance to the woods.
+@rus Под сенью деревьев.
+~
+~
+Z 0 10003
+D2
+@eng Back to the woods.
+@rus Тропинка у озера.
+~
+~
+Z 0 10001
+S
+#10003
+@eng Welcome to Westlands@rus В Вестландии~
+@eng Welcome! Here you are in the middle of a forest beside Trout
+Lake. The road you are walking on goes to the north and back to
+the south if you wish to leave. There are fish jumping in the
+lake, people playing in the sand and picking flowers. This place
+sure is wonderful.
+@rus Вестландия. Мирный край работящих людей, занятых своими делами и не
+уделяющих слишком много внимания посторонним, если только последние
+не вмешиваются в их дела. Дорога огибает озеро и скрывается в тени
+вековых деревьев. На берегу озера виднеется фигура одинокого рыбака,
+а недалеко от него собирает цветы молодая девушка, возможно, его дочь.
+~
+0 0 forest
+D0
+@eng Path down the road.
+@rus Лесная дорога.
+~
+~
+Z 0 10004
+D2
+@eng Back to the clearing.
+@rus Лесная просека.
+~
+~
+Z 0 10002
+S
+#10004
+@eng A path down the road@rus Лесная дорога~
+@eng You are walking along side next to Trout Lake on a dusty old
+road. The trees here are very tall and large. The sun is out
+shining upon you and you start to feel hot. The road continues
+north and south.
+@rus Дорога минует озеро и снова углубляется в лес. По обеим ее сторонам 
+возвышаются огромные вековые деревья, отбрасывающие длинные тени.
+Солнце наконец-то вышло из-за скрывавшех его ранее тучек, и принялось
+весело играться с каплями росы на травке и листьях деревьев. 
+~
+0 0 forest
+D0
+@eng Turn in the road.
+@rus Поворот дороги.
+~
+~
+Z 0 10005
+D2
+@eng The road south.
+@rus Под сенью деревьев.
+~
+~
+Z 0 10003
+S
+#10005
+@eng A turn in the road@rus Поворот дороги~
+@eng As you walk down the road you come across a path leading up
+into the mountains. Since going north will lead right into the
+lake you must go west up into the mountains. There is a little
+rabbit drinking from a small pond infront of you. You wonder
+where such a beeatiful creature came from. You could still go
+back south to the turn in the road. 
+@rus Дорога плавно сворачивает к западу и постепенно озеро совсем скрывается
+из вида. Местность тоже начинает потихоньку меняться. На смену равнине
+приходят холмы и холмики, становящиеся все круче по мере твоего продвижения
+вперед.
+  Вдруг слева от тебя хрустнула ветка. Обернувшись на звук, ты увидел
+маленького крольчонка, пьющего из родничка, почти скрытого травой.
+~
+0 0 forest
+D2
+@eng The road south.
+@rus Лесная дорога.
+~
+~
+Z 0 10004
+D3
+@eng The path to the mountains.
+@rus Дорога через возвышенность.
+~
+~
+Z 0 10006
+S
+#10006
+@eng A path to the mountains@rus На возвышенности~
+@eng As you approach the mountains, you leave the forest behind
+to open air space. The wind here is blowing more swiftly and the
+sun is even hotter. You notice the giant waywarrd pines that loom
+overhead. You wonder where such wonderous trees came from. The
+path up the mountain looks like a nice and easy one to take. You
+could retrun to the east or go up the mountain.
+@rus Лес кончился и больше не скроешься в нежной лесной тени от палящих
+лучей дневного светила. Однако, после многочасового блуждания по
+лесу, вдвойне приятно видеть открытый горизонт, а не бесконечные
+стволы деревьев. Нежный ветерок приятно холодит кожу, и все кажется
+приятным и легковыполнимым. 
+~
+0 0 mountain
+D1
+@eng The path to the forest.
+@rus Поворот дороги.
+~
+~
+Z 0 10005
+D4
+@eng The trail up the mountain.
+@rus На вершине холма.
+~
+~
+Z 0 10007
+S
+#10007
+@eng The trail up the mountain@rus На вершине холма~
+@eng The trail is an easy one to climb and you enjoy the lovely
+walk. As you come to the top of the trail you realize that you
+are now in Upper Ven. Upper Ven is the mountain before the city.
+The path look quite clear and easy to pass. The rocks are warm in
+the suns' rays and is just gleaming with the heated mirage.  You
+may go north or down.
+@rus Вот тропинка и привела тебя на вершину холма. Нельзя сказать, что
+подьем был очень легким, но и тяжелым его назвать нелься. С места,
+где ты стоишь открывается великолепный вид на окрестности. Где-то
+вдалеке окруженная зеленью леса поблескивает гладь Трантого озера. 
+Впереди тебя за еще одним небольшим лесным массивом виднеется город. 
+А лучи заходящего солнца придают какую-то сказачную прелесть 
+открывшемуся твоему взору пейзажу.
+~
+0 0 mountain
+D0
+@eng The path along the cliff.
+@rus Опушка леса.
+~
+~
+Z 0 10008
+D5
+@eng Back down the mountain.
+@rus Дорога через возвышенность.
+~
+~
+Z 0 10006
+S
+#10008
+@eng The edge of upper ven@rus Опушка Охотничьего леса~
+@eng You reach the end of the mountain and have to go down again.
+The path leads back into another forest and seems appealing to
+you to get out of the sun. The forest is filled with trees and
+shrubs all changed colors by the on comming season. The gold and
+bronze colors of the leaves are quite beautiful and look as if
+they are each worth morth then life itself. The mountaint air is
+freash and cooling and makes you feel like you want to sit down
+and rest. You may go down or south.
+@rus Тропинка бежит вперед, петляя среди больших и маленьких валунов, и вот 
+уже приводит тебя к опушке Охотничьего леса. Некоторое время она идет
+параллельно лесу, но постепенно начинает уходить в его глубь. Снова
+вогруг тебя возносятся ввысь вековые деревья. А ветер поет в их ветвях
+свои свистящие песенки.
+~
+0 0 mountain
+D2
+@eng The southern trail.
+@rus На вершине холма.
+~
+~
+Z 0 10007
+D5
+@eng The trail into the forest.
+@rus Тропинка через лес.
+~
+~
+Z 0 10009
+S
+#10009
+@eng The trail in the forest@rus В лесу~
+@eng You have entered the forest near the town of Hartland. The
+path is outlined with bright yellow flowers and little purple
+plants. There is a little shack to the east that doesn't look to
+welcoming. The forest isn't very thick and you can see all around
+you. There are wild ferns and other plants that you have never
+seen before. You see one plant you recconize, but it is from a
+book. This forest seems to be quite a sanctuary. The trail goes
+north to the outskirts of Hartland or up back to the mountain. 
+@rus Лес. Тот самый лес, что окружает Хартленд -- один из важнейших городов
+Вестландии. Он совсем не похож на тот, что ты миновал ранее. Веселый
+орнамент из разноцветных цветов и яркой зеленой травы покрывает землю.
+Солнце свободно проникает через зеленый свод, образованный листвой
+и создает повсюду веселые блики, образующие причудливый рисунок.
+~
+0 0 forest
+D0
+@eng The out-skirts of Hartland.
+@rus Окраины Хартленда.
+~
+~
+Z 0 10010
+D4
+@eng The trail up the mountain.
+@rus Опушка леса.
+~
+~
+Z 0 10008
+S
+#10010
+@eng The out-skirts of Hartland@rus На окраине Хартленда~
+@eng You are on the out skirts of a little town called Hartland.
+The road you walk on is dry and dust covered. Its seems like it
+hasn't rained for quite sometime. Up ahead you can see the town
+begining to form. The town has many people in the streets
+gathering for some kind of bizzard but there is nothing for sale
+here. All the villagers are gathering around a speaker who is
+giving a speech about fire. The city looks like its full of happy
+people, all with wonderous jobs and families. The exits are north
+and south.
+@rus Лес кончился и показались первые дома. Дорога значительно расширилась,
+чувствуется, что ей часто пользуются. Здесь, на окраине, живут не самые
+богатые люди города, но все дома выглядят чисто и аккуратно. А садики
+вокруг них наполняют воздух благоуханием цветов. Сразу видно, что
+живущие здесь люди любят свой город и заботятся о нем. Чуть поодаль,
+по направлению к центру города, виднеется группа людей, внимательно
+слушающих мужчину в белом.
+~
+0 0 forest
+D0
+@eng The town of Hartland.
+@rus Центр города.
+~
+~
+Z 0 10011
+D2
+@eng Back to the woods.
+@rus Тропинка в лесу.
+~
+~
+Z 0 10009
+S
+#10011
+@eng The town of Hartland@rus В центре города~
+@eng You have walked into the town of Hartand. Everyone here
+seems to be happy and joyful. They all seem to be listening to a
+speech about fire which doesn't interest you. You see how the
+speaker talks and catches his audiance and it shows that he has
+some great deal of authority. You wonder why such a small man
+could have so much power over all these people. There are little
+homes all around but seem un-welcoming. You can go north to the
+paths in the fields or south back to the woods.
+@rus В центре этого города располагается небольшая площадь, окруженная со
+всех сторон ухоженными домами. На ней стоит какая-то непонятного вида
+статуя, возле которой и собрались те люди, которых ты заметил еще
+раньше. Теперь уже слышно о чем идеть речь. Как и следовало ожидать,
+о различных нуждах и проблемах жителей городка, совсем тебя не волнующих.
+~
+0 0 city
+D0
+@eng The fields out-side of town.
+@rus Сельскохозяйственные поля.
+~
+~
+Z 0 10012
+D2
+@eng Back to the out-skirts of Hartland.
+@rus Окраины Хартленда.
+~
+~
+Z 0 10010
+S
+#10012
+@eng The fields of Hartland@rus Поля Хартленда~
+@eng You have entered the fields outside of the town and are on
+your way to South Haven. Near South Haven is where the Narrows
+are. In order to get to South Haven you must cross the swamps on
+the way. The air here is suprizingly still and peaceful. There
+are few trees around and even fewer animals. The trail leads
+south to a swamp that steals your breath away with stench, and
+north back to the town you came from.
+@rus За городом расстилаются поистине бесконечные сельскохозяйственные угодия.
+До самого горизонта поля, поля, поля... Сколько же времени занимает
+их обработка? Наверное, много. Даже при поверхностном осмотре видно
+как много труда было сюда вложено. Ни одного сорняка не мешает росту
+культурных растений. 
+~
+0 0 field
+D0
+@eng The path to the swamp.
+@rus Тропинка к болоту.
+~
+~
+Z 0 10013
+D2
+@eng Back to the town.
+@rus Центр города.
+~
+~
+Z 0 10011
+S
+#10013
+@eng The Path to the Swamps.@rus Дорожка в сторону болот~
+@eng As you walk along the trail the forest begins to get thicker
+and thicker. The trail becomes more and more hidden and a mist
+begins to grow. The trees begin to bunch together and the sun has
+been blocked from view. The air is still and musty and it is
+starting to get colder. In the distance towards the boundary, you
+hear the cries of the heart hounds as they are comming out to
+hunt. Just when you thought things could get no worse, you spot a
+quad of assassins out in the trail before you. Better be careful.
+The trail leads north and back to the city, south.
+@rus А вот среди зеленеющих полей появилась почти незаметная тропка, 
+убегающая в сторону от основной дороги. Наверное, именно о ней 
+рассказали тебе в городе. Похоже, что здесь очень давно никто
+не ходил. Если это действительно та тропа, о которой тебе сказали,
+то она должна привести тебя к полузаброшенной деревне, известной
+под названием Южное Пристанище. Но, как предупредили местные 
+жителитропа идет через болота, а там последнее время появились
+какие-то странные твари.
+~
+0 0 forest
+D0
+@eng Closer to the Swamp.
+@rus Начало топей.
+~
+~
+Z 0 10014
+D2
+@eng Back to the fields.
+@rus Поля Хартленда.
+~
+~
+Z 0 10012
+S
+#10014
+@eng Closer to the swamps@rus На окраине болота~
+@eng You are getting closer to the swamp and the mist is
+thickening. The quad assassins didn't want to attack you so I
+guess you're safe. The trees are beginning to look old and dry
+and the ground begins to get muddy. The cries of the heart hounds
+are much closer now and you begin to panic. The trail continues
+to the east and south.
+@rus Ага. А вои и болота, о которых тебе рассказывали. И правда, пренеприятное
+местечко. После зеленеющих под ясным солнышком полей, совсем не хочется
+вступать в царство сырости и мрака. Да еще из тумана доносятся завывания
+каких-то весьма недружелюбных тварей. Похоже, это гончие сердца вышли
+на охоту.
+~
+0 0 forest
+D1
+@eng Path at the swamp.
+@rus Дорога через топи.
+~
+~
+Z 0 10015
+D2
+@eng Back to the trail.
+@rus Тропинка в сторону города.
+~
+~
+Z 0 10013
+S
+#10015
+@eng The path at the swamp@rus Тропа через топи~
+@eng You have arrived at the swamp at the same time as the heart
+hounds. The heart hound will not enter the swamp so it must be
+your only choice..or fight. The swamp looks univiting and you
+don't know what sort of creatures live under the murky waters.
+There is a small island in the center of the swamp that seems
+deserted. The waters in the swamp are shallow enough to pass by
+foot. You better make diside fast, fight or get to the island.
+The exits are back east or west.
+@rus Мрачно и холодно. Солнечные лучи совсем не проникают сюда, а от земли
+поднимается неприятное зловоние. Под ногами хлюпает вода, и надо быть
+очень осторожным, чтобы случайно не сойти с тропинки и не попасть в 
+трясину. Окружающие деревья покрыты чем-то типа слизи и обвиты странными
+лианами. Они медленно умирают, не видя солнечного света, задушенные
+болотными испарениями.
+  Вдруг совсем рядом с тобой раздался вой гончих сердца. Они тебя заметили,
+и тебе ничего не остается кроме как побыстрее сматываться отсюда.
+~
+0 0 forest
+D1
+@eng Over the waters.
+@rus Протока.
+~
+~
+Z 0 10016
+D3
+@eng Back through the woods.
+@rus Конец болота.
+~
+~
+Z 0 10014
+S
+#10016
+@eng Over the swamp waters@rus В воде~
+@eng As you are crossing the waters you notice that the hounds don't follow
+you.  The water is refreashing and cool.  The island is just up ahead and
+you can't wait to get there.  You notice the water starts to move and then
+you see them.  Snakes.  Little yellow deadly snakes.  All over the place. 
+You start to run as fast as you can towards the island.  You could go east
+to the island or back west.  
+@rus Спасаясь от преследования гончих сердца, ты нырнул в небольшую протоку, 
+намереваясь пересечь ее и выбраться на тот берег. Но вот незадача...
+В воде оказалось полно маленьких желтых змеек, которые дружно поплыли
+в твою сторону. Надо поскорее делать от сюда ноги, но... Назад вернуться
+нельзя, а до того берега ты доплыть не успеешь, эти мелкие желтые 
+змейки оказались очень проворными созданиями. Придется выбираться
+на островок, посреди протоки -- на настоящий момент это единственная
+возможность остаться в живых.
+~
+0 0 swim
+D1
+@eng On the island.
+@rus Небольшой островок.
+~
+~
+Z 0 10017
+D3
+@eng Back to the path.
+@rus Дорога через болота.
+~
+~
+Z 0 10015
+S
+#10017
+@eng On the island@rus На островке~
+@eng As you climb up on on the island you realize that the snakes don't follow
+you on to dry land.  The hounds are still back on the other shore and will
+not enter the waters.  The hounds let out yelps of frustration.  The island
+doesn't have any trees or plants.  Looking to the east you see the new path
+to SouthHaven.  You wonder when you should attempt to cross the waters
+again.  The exits are to the east, and to the west.  
+@rus Выбравшись из воды на этот небольшой островок ты слегка обезопасил себя.
+Гончие сердца бегают по противоположному берегу, обращая на тебя свои
+страшные морды. Но ни одна из них не рискнула войти в воду. А мелкие
+змейки, которых ты видел сквозь толщу воды, по-видимому, не любят суши.
+Мда, однако, этот островок особо дружелюбным не назовешь. Ни одного дерева,
+никакой другой растительности -- один голый песок и ничего больше.
+~
+0 0 hills
+D1
+@eng Over the waters heading south.
+@rus Протока.
+~
+~
+Z 0 10018
+D3
+@eng Back on the waters.
+@rus Протока.
+~
+~
+Z 0 10016
+S
+#10018
+@eng Over the waters@rus В воде~
+@eng As you set out again through the swamp, you notice that the sun is coming
+out and the mist is clearing.  The snakes haven't bothered you yet and the
+hounds have returned back to their home, in the boundary.  The swamp gets
+shallower as you approach the land again and the sky goes clear.  The exits
+are east the shore or back west to the island.  
+@rus Брррр. Холодно, мокро, какие-то гадкие змеи и никак этого не миновать.
+Ведь по воздуху мы ходить еще не научились, а с острова выбраться как-то
+надо. Вот и приходиться снова лезть в воду. Но ничего, осталось еще
+чуть-чуть и можно будет перевести дух, выбравшись на чистый бережок. 
+Хотя при такой близости к Границе, неизвестно что может поджидать
+тебя за ближайшим деревом.
+~
+0 0 swim
+D1
+@eng On The Shore.
+@rus Сухая тропа.
+~
+~
+Z 0 10019
+D3
+@eng Back to the Island.
+@rus Небольшой островок.
+~
+~
+Z 0 10017
+S
+#10019
+@eng On the shore again@rus На берегу~
+@eng Now that you have reached the shore you breath a sigh of
+reliefe that the hounds have gone away. You look down to the
+south towards SouthHaven and you can hear the faint sounds of the
+city life. You continue your hike to SouthHaven. You may go back
+to the swamps (north) or continue south.
+@rus Приятно выбраться из воды и ступить на твердую землю. Светлый песочек,
+камушки... не то, что эта гадкая, мокрая вода. Окружающий озеро лес
+спускается к самому берегу. Легкий ветерок волнует кроны высоких стройных
+деревьев, растущих тут в изобилии. Но он же и студит твою мокрую одежду,
+а солнышко как на зло скрылось за облаками и пока не хочет выходить из-за
+них.
+~
+0 0 forest
+D1
+@eng Trail through the woods.
+@rus Тропинка под деревьями.
+~
+~
+Z 0 10020
+D3
+@eng Back on the waters.
+@rus Протока.
+~
+~
+Z 0 10018
+S
+#10020
+@eng The trail through the woods@rus Тропа в лесу~
+@eng The woods seem to have come alive since you last saw them.
+The trees here are big and full of colorful leaves, the road is
+dry again and there are plants growing in the woods. The trip to
+South Haven isn't as bad as you thought. You can see the village
+up ahead.
+@rus Деревья, деревья, деревья. Кажется конца им не будет. Хвойные и лиственные,
+молодые и старые, высокие и не очень. Но никаких следов присутствия животных.
+Как будто повымерли все. Или ушли. Вероятно, это сказывается близость Границы
+ведь никому не хочется достаться на завтрак гару или на ужин гончей сердца.
+До Южного пристанища уже осталось совсем немного, кажется, за деревьями 
+уже просматриваются дома его жителей.
+~
+0 0 forest
+D1
+@eng The entrance to the village.
+@rus Небольшая полузаброшенная деревня.
+~
+~
+Z 0 10021
+D3
+@eng Back to the waters.
+@rus Тропинка у воды.
+~
+~
+Z 0 10019
+S
+#10021
+@eng The village gates@rus Южное Пристанище~
+@eng As you approach this village the giant gates open up to
+welcome you. The city is alive with action in the streets. There
+are children everywhere and people at the stores. The village
+road continues on south and offers you a place to rest for a cup
+of ale. You may go north to the forest or south into the village.
+@rus Южное Пристанище. Маленькая глухая деревушка, затерявшаяся в не менее
+глухой местности, вдали от городов и торговых троп, у самой Границы.
+Окованные железом ворота распахнуты, но готовы сомкнуться при первых
+же признаках орасности. Вся деревушка обнесена бревенчатым частоколом.
+Но разве дерево является преградой для бестелесных обитателей мира смерти.
+~
+0 0 city
+D1
+@eng The Road in the Village.
+@rus Деревенская улица.
+~
+~
+Z 0 10022
+D3
+@eng Back to the Forest.
+@rus Тропинка через лес.
+~
+~
+Z 0 10020
+S
+#10022
+@eng The road along the village@rus Дорога через деревню~
+@eng As you walk down the street you notice a nice bar to the
+north. It looks quite welcoming and you sure are thirsty. There is
+faint singing comming from the bar..drunken men you suppose. You
+hear some people talking about their weekends and what they want
+to do. There is a fresh cool breeze floating through the city.
+@rus Ты идешь по главной деревенской улице. По ее краям теснятся небольшие, 
+потрепанного вида домики. Из одного такого доносятся доносятся обрывки
+разговоров и просто пьяные выкрики. Похоже зтот замызганный бар --
+единственная достопримечательность этого селения. Но, если тебе надо
+разузнать последние сплетни и промочить горло чем-нибудь недорогим, 
+лучшего места не сыскать. 
+~
+0 0 city
+D0
+@eng Entrance to the bar.
+@rus Забегаловка.
+~
+~
+Z 0 10023
+D1
+@eng Path to the narrows.
+@rus Дорога к проходу.
+~
+~
+Z 0 10024
+D3
+@eng Back to the gates.
+@rus Окраина деревни.
+~
+~
+Z 0 10021
+S
+#10023
+@eng The bar@rus Забегаловка~
+@eng You enter a small smoke filled room just filled with people
+all drinking and enjoying themselves. There is a bartender
+selling drinks and a lady on stage singing her favorite little
+number. The drunken men are big and strong but, are covered with
+ale stains on their shirts. 
+@rus Маленькая прокуренная комната, до отказа заполненная народом. Среди 
+посетителей шустро мелькает голова бармена. Ему то выгодно, когда тут
+собирается пол деревни. В меню этого дешевого заведения значится 
+только эль, но кто знает чем еще приторговывает хозяин из-под прилавка.
+Да и разве можно эту засаленную рваную бумажку называть меню? 
+  Раздавшийся за спиной грохот, заставил тебя повернуть голову.  Ооо, 
+да это какой-то очень переусердвовавший клиент, свалился со стула.
+~
+0 0 inside
+D2
+Back to the road.
+~
+~
+Z 0 10022
+S
+#10024
+@eng The trail to the narrows@rus Тропинка у Границы.~
+@eng This is a long trail that leads up to the narrows where you
+will need to cross into D'Hara. The path is wide and quite
+visable. There are little animals running around in the woods all
+about. You notice that the trees are thicker and a lot greener.
+The humidity begins to rise and it starts to feel hotter. Your
+legs start to get tired when you see the Bone Woman's shack up
+ahead. It would be good to visit her. Her shack is about oh..
+twenty or so yards ahead and will take no time to reach it. You
+spot the Narrows up ahead.
+@rus Совсем незаметная тропка вьется среди деревьев. Чувствуется, что люди
+ходят здесь очень редко. Да и что здесь искать, в такой близости от 
+Границы? Если только способ мучительно умереть. Тихо кругом. Лишь слышен
+шелест ветра в листве деревьев. И безлюдно. Кто же такая эта загадочная
+костяная женщина Эди, если она выбрала себе в место жительства столь
+странное место.
+~
+0 0 forest
+D1
+@eng The path to the Bone Womens.
+@rus Тропинка к дому Эди.
+~
+~
+Z 0 10025
+D3
+@eng The path to the village.
+@rus Дорога к деревне.
+~
+~
+Z 0 10022
+S
+#10025
+@eng The path to the Bone Woman's shack@rus Дорожка к дому Эди~
+@eng You walk out into a clearing in the woods and notice that
+the sky is starting to become over cast again. The woods look
+ready for rain and the trees have their leaves turned upwards.
+There is a shack to the west of you which must belong to the Bone
+Woman. The shack looks nice and cosy. It would be nice to stay and have
+a visit with the old Bone Woman.
+@rus Тропинка вьется среди деревьев. Но что странно, все деревья какие-то
+засушенные, как будто последний дождь здесь шел год назад. За рощицей
+виднеется небольшое строение. Наверное это и есть жилище той женщины, 
+о которой тебе рассказал содержатель гостиницы. Возможно, она сможет
+помочь тебе преодолеть Границу. 
+~
+0 0 forest
+D0
+@eng The Bone Womans house.
+@rus Дом Эди.
+~
+~
+Z 0 10026
+D1
+@eng The path to the Narrows.
+@rus Затеряная тропа.
+~
+~
+Z 0 10027
+D3
+@eng Back to the forest.
+@rus Мрачного вида лес.
+~
+~
+Z 0 10024
+S
+#10026
+@eng The Bone Woman's shack@rus В доме у Эди~
+@eng You enter a room that has bones all over the walls. There is
+a nice warm fireplace sitting in the corner giving off heat and
+light. A oil lamp is hanging from a beam in the roof and gives
+the room an eerie glow. There are bones in little piles on the
+floors and an old lady stands in the center of the room. She has
+a big smile on her face and offerse you to stay in her home for
+as long as you wish.
+@rus Небольшая уютная комнатка, возле стен и в углах которой навалено огромное
+количество всевозможных костей. В камине весело трещит огонь, согревая
+своим теплом все вокруг. Маслянная лампа, стоящая на столе, распростроняет
+вокруг мягкий свет. Возле стола стоит хозяйка этого странного места. На
+ее лице играет улыбка, но слишком уж странен взгляд ее белых глаз. 
+~
+0 0 inside
+D2
+@eng Back to the road.
+@rus Тропинка.
+~
+~
+Z 0 10025
+S
+#10027
+@eng The narrows@rus Теснина~
+@eng You have reached the Narrows. This is a very dangerous place
+to be in. There are many underworld beasts that live in the
+narrows. You should stay on guard and not fall asleep.
+@rus Ты входишь в Теснину. Очень опасное место, где мир мертвых пересекается с
+миром живых. Повсюду виднеются порождения подземного мира, которые тока и
+ждут момента, когда смогут добраться до тебя. Главное -- не останавливаться
+и ни в коем случае не спать. 
+~
+0 0 desert
+D1
+@eng The path through the narrows.
+@rus Проход.
+~
+~
+Z 0 10028
+D3
+@eng Back to the bone woman's for a cup of tea.
+@rus Дорожка к дому Эди.
+~
+~
+Z 0 10025
+S
+#10028
+@eng The path through the narrows@rus В теснине~
+@eng The trail you are following is an easy on to follow. There
+is no sound which frightens you a little but then the fear
+passes. As you continue west you can see the center of the
+narrows approaching. Apparently they are the most dangerous part
+of the whole narrows.
+@rus Страшное мрачное место. Но что еще можно было ожидать? Со всех сторон к тебе
+тянутся какие-то тени, окруженные зеленоватым мерцанием. Их голоса манят и
+зовут. Нельзя поддаться их зову или ты навечно сгинешь и станешь послушной
+марионеткой повелителя загробного мира. Еще не поздно повернуть назад, пока
+есть шанс выбраться живым из этого жуткого места.
+~
+0 0 desert
+D1
+@eng The center of the Narrows.
+@rus Проход.
+~
+~
+Z 0 10029
+D3
+@eng Back to the enterance of the Narrows.
+@rus Проход.
+~
+~
+Z 0 10027
+S
+#10029
+@eng The center of the narrows@rus В центре прохода~
+@eng You approach the center of the Narrows when you spot it. A
+shadow person. They have a poisonous touch and are the
+undertakers of the dead. You try to get past it without making
+him attack. The sky is getting dark and you still have a little
+ways to go. The exits are in an east-west direction, west being
+the way you want to go.
+@rus Вот оно. Самое опасное место прохода "Золотые ворота". Cтены практически 
+смыкаются и тебе с трудом удается протискиваться вперед. Тени мертвых
+подбираются все ближе и ближе к тебе. Еще много много и ты ощутишь их холодное
+прикосновение. А чуть в стороне появились еще какие-то странные твари, 
+сплошь утыканые шипами.
+~
+0 0 desert
+D1
+@eng The path to the end of the Narrows.
+@rus Проход.
+~
+~
+Z 0 10030
+D3
+@eng The way you came.
+@rus Проход.
+~
+~
+Z 0 10028
+S
+#10030
+@eng Near the end of the narrows@rus У выхода из теснины~
+@eng You are approaching the end of the narrows. You give a sigh
+of relief that you are almost out of this dreaded place. The sun
+is setting out ahead of you making it hard to see your way. The
+air starts to cool down as the sun sets in the west. You try to
+hurry your way out of the narrows before dark.
+@rus Самое опасное место, наконец-то, осталось позади. Тропинка, по которой ты
+идешь, снова стала шире, и уже не надо протискиваться в узкий проход меж
+скал. Но тени по-прежнему преследуют и зовут тебя. Где-то впереди виднеется
+выход из этого страшного места. Тусклое пятно солнечного света манит тебя, 
+и ты невольно ускоряешь шаг, чтобв побыстрее выбраться отсюда.
+~
+0 0 desert
+D1
+@eng The end of the narrows.
+@rus Выход из прохода.
+~
+~
+Z 0 10031
+D3
+@eng The way you came..of course.
+@rus Проход.
+~
+~
+Z 0 10029
+S
+#10031
+@eng The end of the narrows@rus Выход из прохода~
+@eng You have reached the end!!! Yay!..... Uh Oh!!! The sun has
+set and right before your eyes materializes The Spirit King. He
+is not going to let you pass. You must fend off this naughty
+beast and get to Darken Rahl. 
+@rus Наконец-то! Снова над головой засияло ласковое солнышко и подул свежий
+ветерок. Какое блаженство снова очутиться под открытым небом после 
+многочасового пребывания в затхлой темноте прохода. Миру смерти не удалось
+восторжествовать над тобой. Теперь, когда теснина осталась позади, можно
+спокойно отдохнуть и набраться сил для дальнейших странствий. Ведь еще 
+чтобы достичь Народного Дворца предстоит пересечь поистине бескрайние 
+равнины Азрита.
+~
+0 0 desert
+D1
+@eng The Azrith Plains.
+@rus Равнины Азрита.
+~
+~
+Z 0 10032
+D3
+@eng The Narrows.
+@rus Проход.
+~
+~
+Z 0 10030
+S
+#10032
+@eng The Azrith plains@rus Равнины Азрита~
+@eng Welcome to D'Hara! You have successfully passed through the
+narrows and are standing infront of the Azrith Plains. The plains
+are quite massive and reach as far as your eyes can see. In the
+distance, you see the home of Darken Rahl, the Peoples Palace.
+You have to cross the Azrith Plains in order to get to Darken
+Rahl in his massive palace.
+@rus Ну вот ты и достиг Д'Хары. Перед тобой расстилаются поистине необозримые
+равнины Азрита. Безжизненная земля тянется до самого горизонта. Где-то
+там находится Народный дворец. Оттуда вершит свои дела Магистр Рал. Там
+живут его преданные слуги и простые почитатели, примкнувшие к нему в 
+надежде получить дорогой подарок. Там же держат тех, кому хватило смелости и
+мужества выступить против его захватнических планов.
+~
+0 0 field
+D0
+@eng The Azrith Plains.
+@rus Дорога через равнины.
+~
+~
+Z 0 10033
+D3
+@eng The Narrows end.
+@rus Теснина.
+~
+~
+Z 0 10031
+S
+#10033
+@eng The path through the plains@rus Дорога через равнины~
+@eng You have found a path that is quite long but leads to Darken
+Rahl's Palace. The path is covered with stones and there is an
+occassional tree here and there. The sky is bright and clear and
+it is a hot day. You start to be thirsty and you feel sort of
+tired. Your only choice is to go ahead onto the Peoples Palace
+and stop Darken Ralh then steel a drink and a bite to eat. The
+way back through the Narrows doesn't seem appealing. The exits
+are north and south.
+@rus Тааак. По-видимому именно эта дорога и ведет к Народному Дворцу -- 
+сосредоточию силы и могущества Д'Хары. По крайней мере, она выглядит 
+гораздо более используемой чем те, по которым ты проезжал раньше.
+Но по-прежнему никого не видно на дороге и тебя сопровождает только лишь
+шум твоих шагов. На небе нет ни облачка, и солнечные лучи, отражаясь от
+песка у обочины дороги, слепят глаза.
+~
+0 0 field
+D0
+@eng The Azrith Plains.
+@rus Равнины Азрита.
+~
+~
+Z 0 10034
+D2
+@eng The path back where you came from.
+@rus Равнины Азрита.
+~
+~
+Z 0 10032
+S
+#10034
+@eng The Azrith plains@rus Равнины Азрита~
+@eng You notice that you have traveled quite far and are almost
+at the Palace. You feel a sudden urge to stop and go back but
+then it passes. You see ahead of you a giant Dragon blocking your
+trail. Maybe she will listen to you and move out of the way.
+Maybe she will eat you up for breakfast... Hmmmmmm...Breakfast
+sure would be nice. The exits are north and south.
+@rus Равнины Азрита кажутся поистине бесконечными. Ровная, лишенная всякой
+растительности, безжизненная пустыня тянется до самого горизонта. На небе нет
+ни облачка и ничто не нарушает этого мрачного безмолвия. Куда ни кинь взгляд,
+везде одно и то же -- молчаливый песок, убегающий к горизонту. 
+  Но вот пейзаж начал меняться. По краям дороги стали попадаться валуны, и
+чем дальше -- тем больше их становится. Да и сама дорога стала значительно
+уже.
+~
+0 0 field
+D0
+@eng To the BIG scary DRaGoN.
+@rus Каньон.
+~
+~
+Z 0 10035
+D2
+@eng Back through the boring old plains.
+@rus Дорога через равнины.
+~
+~
+Z 0 10033
+S
+#10035
+@eng At the BIG scary DRaGoN!@rus В каньоне~
+@eng You approach the dragon and notice that she is the biggest
+most frightening beast you have ever seen. The dragon hardly
+notices you as you try to get by. Maybe you should TRY to kill it
+so you wont have to fight it on the way back...Maye you should
+just turn around and go back to mommy for some cookies...mmmm
+cookies. STOP THINKING ABOUT FOOD! You must go on and kill Darken
+Rahl. The exits are North and South ass usual.
+@rus Вид местности изменился. Теперь тропинка то ведет вдоль глубоких оврагов, то 
+петляет, огибая острые гребни скал. Узкая расщелина приводит тебя вниз, в 
+окруженный отвесными каменными стенами каньон. Повсюду валяются валуны и
+обломки скал. А над самим каньоном висит какая-то неестественная тишина.
+Вдруг дорогу тебе преграждает стена ревущего пламени. И кто бы мог подумать,
+что драконы умеют так хорошо сливаться с местностью.
+~
+0 0 field
+D0
+@eng The entrance to the Peoples Palace.
+@rus Дорога ко дворцу.
+~
+~
+Z 0 10036
+D2
+@eng Back the way you came.
+@rus Равнины Азрита.
+~
+~
+Z 0 10034
+S
+#10036
+@eng The Peoples palace@rus Народный дворец~
+@eng Finally you're at the Peoples Palace. This palace sure is
+big. Bigger then anything you have ever seen. The doors are ten
+times as big as you, yet they stand open..as if you're being
+expected. The stairs are made from white marble and are spotless.
+The exits are north into the palace or south to the BIG scary
+DRaGoN.
+@rus Наконец, ты достиг Народного дворца. Он действительно оказался большим.
+Гораздо большим, чем ты предполагал. Справедливости ради, надо признать,
+что это самое большое строение, виденное тобой за всю жизнь. Одни лишь
+двери в десять раз больше, чем ты. И, как ни странно, они открыты. К дверям
+ведет лестница из великолепного белого мрамора.
+~
+0 0 field
+D0
+@eng The Palace.
+@rus Внутренние помещения дворца.
+~
+~
+Z 0 10038
+D2
+@eng The big scary DRaGoN.
+@rus Каньон.
+~
+~
+Z 0 10035
+S
+#10038
+@eng The long hallway@rus В коридоре~
+@eng You enter the Palace and head down a long hallway. There are
+many people wandering about this castle and others are praying or
+chanting about Darken Ralh. You pass one Devotion Room afilled
+with these people. You decide not to stop and keep on going. The
+exits are to the north, south and to the east there is a room
+filled with devoters.
+@rus Войдя в Народный дворец, ты просто потерялся в обилии и великолепии его 
+внутренних помещений. Бесчисленные залы с мраморными изваяниями, огромные 
+изысканно украшенные комнаты, многолюдные площадки для посвящений, мраморные 
+лестницы и темные коридоры. И повсюду огромное количество людей, занятых своими
+делами и необращающих на тебя никакого внимания. До тебя долетают обрывки 
+разговоров о Магистре Рале, повелителе этих мест. Среди празднично одетых людей
+выделяются молодые женщины в кожаных одеяниях. Это Морд-Сит -- одни из самых
+верных слуг Магистра.
+~
+0 0 inside
+D0
+@eng The longer hallway.
+@rus Конец коридора.
+~
+~
+Z 0 10041
+D1
+@eng The devotion room.
+@rus Многолюдная площадка для посвящений.
+~
+~
+Z 0 10039
+D2
+@eng Back to the gates.
+@rus Выход из Народного Дворца.
+~
+~
+Z 0 10036
+S
+#10039
+@eng The devotion room@rus Площадка для посвящений~
+@eng This room is filled with people, heads bowed to the floor
+chanting a harmonic tune. There is a giant pool in the center of
+the room filled with water. The place looks like an indoor
+garden. You get shivers up your spine just at the sight of all
+these people devoted to Darken Rahl. The exits are north and back
+west.
+@rus Огромная комната с мраморными колоннами и затейливо украшенным лепниной 
+потолком. Пол выложен разноцветными плитками, а в ее центре -- огромный
+бассейн, наполненный кристально чистой водой.Помещение полно коленоприклоненных
+людей, распевно произносящих какие-то слова. Прислушавшись, ты понимаешь что
+именно они говорят. Это слова посвящения Магистру Ралу.
+~
+0 0 inside
+D0
+@eng To the Mord-Sith room.
+@rus Комната Морд-Сит.
+~
+~
+Z 0 10040
+D3
+@eng Back to the hallway.
+@rus Длинный коридор.
+~
+~
+Z 0 10038
+S
+#10040
+@eng The room of the Mord-Siths@rus Комната Морд-Сит~
+@eng This room is filled with the horid smell of blood and sweat
+combined. There are people chained to beams and women dressed in
+red leather torturing them. The floors are covered in blood. The
+moment you enter this room you regret it. The Mord-Siths have
+spotted you and are heading in your direction. Better run FAST!
+@rus Кажется все в комнате прпиталось запахом крови и пота прикованных к стене
+узников. Прямо таки физически ощущается как их страдание, так и наслаждение 
+мучающих их женщин в красных кожанных одеяниях. Выложенный мраморной плиткой
+пол сплошь покрыт лужами крови. Ты еще не успел зайти, а Морд-сит уже обратили
+на тебя внимание. Они с удовольствием добавят тебя к уже имеющимся в их
+распоряжении "воспитанникам".
+~
+0 0 inside
+D2
+Back to the Devotion room.
+~
+~
+Z 0 10039
+S
+#10041
+@eng The end of the hallway@rus Конец коридора~
+@eng You have reached the end of the hallway..on this floor.
+Before you are giant doors with gold doorknobs. There is the
+sound of birds tweeting from within. You feel the the magic
+surrounding this room...
+
+You have found Darken Rahl! The door opens automatically before
+you. You may enter or go back to the Mord-Siths.
+@rus Наконец коридор, по которому ты шел, закончился, и твоему взору предстала
+массивная дверь с золотой ручкой. Тишина коридора нарушилась пением птиц
+доносящимся из-за нее.
+  Дверь распахивается перед тобой и теперь ты окончательно убеждаешься, что
+именно это место было главной твоей целью. 
+~
+0 0 inside
+D0
+@eng The Garden of Life.
+@rus Магический сад скрывается за массивными позолоченными дверями.
+~
+~
+Z 0 10042
+D2
+@eng The long hallway.
+@rus Длинный коридор.
+~
+~
+Z 0 10038
+S
+#10042
+@eng The Garden of Life@rus Сад Жизни~
+@eng This is a cavernous room filled with wonders sorts of
+magical plants. Leaded windows high overhead let in the light for
+the lush plants. Around the outside of the room are flowers set
+in beds, with walkways winding through. Beyond the flowers are
+small trees, short stone walls with vines covering them, and
+well-tended plants completing the landscaping. Except for the
+windows overhead, this room mimics an outdoor garden. In the
+centre of this expansive room is an area of lawn that sweeps
+around almost into a circle, the grass ring broken by a wedge of
+white stone, upon which sits a slab of granite, smooth but for
+grooves carved near the edge of the top, leading to a small well
+in one corner. It is held up by two short fluted pedestals.
+Beyond the slab stands a polished stone block set next to a fire
+pit.  In the centre of the lawn lies a round area of white
+sorcerer's sand, ringed with torches that burn with fluid flames.
+
+@rus Огромная пещероподобная комната, вся наполненная зеленью. Солнечные лучи,
+струясь через стеклянный купол, создают нежный рисунок света и тени. Меж клумб
+с цветами, собранными со всех концов света, проложены песочные дорожки.
+Среди этого цветущего великолепия в художественном беспорядке разбросаны
+небольшие деревца и мраморные статуи, обвитые виноградной лозой. В центре
+сада небольная зеленая лужайка со свежевыкошенной травой. Там, из-под земли
+бьет источник с кристально чистой водой.
+  Среди цветущего великолепия этого сада кажется неуместным белый мраморный
+алтарь, с выгравированными на нем непонятными символами и круг белого 
+магического песка подле него.
+~
+0 0 inside
+D2
+@eng The exit from the Garden of Life.
+@rus Дверь с позолоченной ручкой, ведущая во внутренние покои дворца.
+~
+~
+Z 0 10041
+S
+#0
+
+#SPECIALS
+M 10017 spec_cast_cleric	* The Bone Woman
+M 10020 spec_cast_mage	* the spirit king
+M 10021 spec_breath_fire	* Scarlet
+M 10024 spec_breath_any	* a drunken villager
+M 10025 spec_thief	* a little thief
+M 10031 spec_cast_undead	* The Evil Darken Rahl
+S
+
+#RESETS
+O 0 10026 0 10001	* a little sign (Path by a lake)
+O 0 10025 0 10001	* a sign (Path by a lake)
+M 0 10007 1 10003 1	* a young lady (Welcome to Westlands)
+M 0 10008 1 10003 1	* a fisherman (Welcome to Westlands)
+M 0 10009 1 10003 1	* a little boy (Welcome to Westlands)
+M 0 10005 4 10005 4	* a quad assassin (A turn in the road)
+M 0 10014 2 10006 1	* a boundary warden (A path to the mountains)
+E 0 10012 0 1		*	a boundary warden's ring: on the left finger
+E 0 10012 0 2		*	a boundary warden's ring: on the right finger
+E 0 10013 0 7		*	boundary warden leggins: on the legs
+M 0 10010 1 10008 1	* a heart hound (The edge of upper ven)
+E 0 10015 0 3		*	a heart hound collar: around the neck (1)
+M 0 10010 1 10008 1	* a heart hound (The edge of upper ven)
+E 0 10015 0 3		*	a heart hound collar: around the neck (1)
+M 0 10001 2 10009 1	* a long-tailed gar (The trail in the forest)
+M 0 10002 2 10009 1	* a long-tailed gar (The trail in the forest)
+M 0 10004 4 10009 1	* a blood fly (The trail in the forest)
+M 0 10004 4 10009 1	* a blood fly (The trail in the forest)
+M 0 10004 4 10009 4	* a blood fly (The trail in the forest)
+M 0 10015 1 10010 1	* a thief (The out-skirts of Hartland)
+M 0 10011 1 10011 1	* a speaker (The town of Hartland)
+M 0 10012 2 10011 1	* a happy villager (The town of Hartland)
+M 0 10012 2 10011 1	* a happy villager (The town of Hartland)
+M 0 10013 1 10011 1	* a healer (The town of Hartland)
+M 0 10003 1 10012 1	* a long-tailed gar (The fields of Hartland)
+M 0 10004 4 10012 1	* a blood fly (The fields of Hartland)
+M 0 10016 2 10012 1	* a beggar (The fields of Hartland)
+M 0 10016 2 10012 1	* a beggar (The fields of Hartland)
+M 0 10032 1 10013 1	* a short-tailed gar (The Path to the Swamps.)
+M 0 10004 1 10013 1	* a blood fly (The Path to the Swamps.)
+M 0 10032 1 10014 1	* a short-tailed gar (Closer to the swamps)
+M 0 10032 1 10014 1	* a short-tailed gar (Closer to the swamps)
+M 0 10004 1 10014 1	* a blood fly (Closer to the swamps)
+M 0 10004 1 10014 1	* a blood fly (Closer to the swamps)
+M 0 10001 2 10015 1	* a long-tailed gar (The path at the swamp)
+M 0 10002 2 10015 1	* a long-tailed gar (The path at the swamp)
+M 0 10004 4 10015 1	* a blood fly (The path at the swamp)
+M 0 10010 4 10015 1	* a heart hound (The path at the swamp)
+M 0 10010 4 10015 1	* a heart hound (The path at the swamp)
+E 0 10015 0 3		*	a heart hound collar: around the neck (1)
+M 0 10026 4 10016 1	* a yellow snake (Over the swamp waters)
+M 0 10026 4 10016 1	* a yellow snake (Over the swamp waters)
+M 0 10026 4 10016 1	* a yellow snake (Over the swamp waters)
+M 0 10026 4 10016 1	* a yellow snake (Over the swamp waters)
+M 0 10014 2 10020 1	* a boundary warden (The trail through the woods)
+E 0 10001 0 16		*	a boundary warden's mace: wielded
+E 0 10006 0 9		*	boundary warden gloves: on the hands
+E 0 10007 0 8		*	boundary warden boots: on the feet
+E 0 10008 0 10		*	boundary warden sleeves: on the arms
+E 0 10009 0 11		*	boundary warden's shield: as a shield
+E 0 10010 0 5		*	boundary warden's tunic: on the body
+E 0 10011 0 6		*	a boundary warden's helmet: over the head
+G 0 10020 0		*	a boundary warden's flail
+G 0 10021 0		*	a boundary warden's mace
+G 0 10022 0		*	a boundary warden's dagger
+G 0 10019 0		*	a boundary warden's sword
+M 0 10025 1 10022 1	* a little thief (The road along the village)
+G 0 10014 0		*	a dark robe
+E 0 10005 0 8		*	a pair of black boots: on the feet
+M 0 10028 1 10022 1	* a dopey little cat (The road along the village)
+G 0 10017 0		*	a BIG cookie!
+M 0 10023 1 10023 1	* the bar tender (The bar)
+G 0 10004 0		*	a jug of beer
+G 0 10016 0		*	a magical leather pouch
+M 0 10024 4 10023 1	* a drunken villager (The bar)
+G 0 10004 0		*	a jug of beer
+M 0 10024 4 10023 1	* a drunken villager (The bar)
+M 0 10024 4 10023 1	* a drunken villager (The bar)
+M 0 10024 4 10023 1	* a drunken villager (The bar)
+M 0 10006 4 10025 4	* a quad assassin (The path to the Bone Woman's shack)
+M 0 10017 1 10026 1	* The Bone Woman (The Bone Woman's shack)
+E 0 10002 0 4		*	the Bone Woman's necklace: around the neck (2)
+M 0 10018 3 10028 1	* a nasty gripper (The path through the narrows)
+G 0 10003 0		*	some grippers teeth
+M 0 10018 3 10028 1	* a nasty gripper (The path through the narrows)
+M 0 10018 3 10029 1	* a nasty gripper (The center of the narrows)
+M 0 10019 2 10029 1	* the scary shadow thing (The center of the narrows)
+M 0 10030 2 10029 1	* a devoter of Darken Rahl (The center of the narrows)
+M 0 10019 2 10030 1	* the scary shadow thing (Near the end of the narrows)
+M 0 10020 1 10031 1	* the spirit king (The end of the narrows)
+M 0 10022 4 10032 1	* an evil shadow person (The Azrith plains)
+M 0 10027 2 10032 1	* an underworld beast (The Azrith plains)
+G 0 10018 0		*	a BIG piece of cake!
+M 0 10027 2 10032 1	* an underworld beast (The Azrith plains)
+M 0 10022 4 10034 1	* an evil shadow person (The Azrith plains)
+M 0 10022 4 10034 1	* an evil shadow person (The Azrith plains)
+M 0 10021 1 10035 1	* Scarlet (At the BIG scary DRaGoN!)
+M 0 10029 2 10038 1	* Mord-Sith (The long hallway)
+E 0 10023 0 16		*	a mord-sith agiel: wielded
+M 0 10033 1 10040 1	* Denna (The room of the Mord-Siths)
+E 0 10023 0 16		*	a mord-sith agiel: wielded
+M 0 10029 1 10040 1	* Mord-Sith (The room of the Mord-Siths)
+E 0 10023 0 16		*	a mord-sith agiel: wielded
+M 0 10030 2 10041 1	* a devoter of Darken Rahl (The end of the hallway)
+M 0 10031 1 10042 1	* The Evil Darken Rahl (The Garden of Life)
+E 0 10024 0 14		*	the bracer of power: on the left wrist
+S
+
+#SHOPS
+10023 0 0 0 0 0 100 0 0 23
+0
+
+#$

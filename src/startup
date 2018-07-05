@@ -1,0 +1,39 @@
+#!/bin/sh
+umask 002
+port="-p 6666 -i 6667"
+sog=`pwd`/sog
+index=1000
+cd ..
+
+# Set limits.
+if [ -e shutdown.txt ]; then
+	rm -f shutdown.txt
+fi
+
+while [ 1 ]; do
+	while [ 1 ]; do
+		logfile=log/$index.log
+		if [ -e $logfile ]; then
+			index=`echo $index + 1 | bc`
+		else
+			break
+		fi
+	done
+
+	$sog $port 2>&1 | tee $logfile
+	exitcode=$?
+
+	if [ -e sog.core ]; then
+		mv sog.core corefiles/core.$index
+	fi
+
+	if [ -e shutdown.txt ]; then
+		rm -f shutdown.txt
+		exit 0
+	fi
+
+	if [ $exitcode -ne 0 ]; then
+		exit 1
+	fi
+	sleep 15
+done

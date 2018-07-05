@@ -1,0 +1,26 @@
+/cmd.c/1.2/Fri Apr 16 15:52:22 1999//
+/cmd.h/1.2/Fri Apr 16 15:52:22 1999//
+/db.c/1.131/Fri Apr 16 15:52:22 1999//
+/db.h/1.39/Fri Apr 16 15:52:23 1999//
+/db_area.c/1.36/Sat Apr 17 06:56:38 1999//
+/db_clan.c/1.18/Fri Apr 16 15:52:23 1999//
+/db_class.c/1.19/Fri Apr 16 15:52:23 1999//
+/db_hometown.c/1.2/Sat Apr 17 06:56:39 1999//
+/db_lang.c/1.14/Fri Apr 16 15:52:23 1999//
+/db_race.c/1.7/Fri Apr 16 15:52:23 1999//
+/db_skills.c/1.9/Fri Apr 16 15:52:23 1999//
+/db_socials.c/1.2/Mon Mar  8 13:56:07 1999//
+/db_system.c/1.2/Thu Apr 15 12:22:59 1999//
+/gsn.c/1.18/Fri Apr 16 15:52:23 1999//
+/gsn.h/1.17/Fri Apr 16 15:52:24 1999//
+/hometown.c/1.4/Sat Apr 17 06:56:39 1999//
+/hometown.h/1.3/Sat Apr 17 06:56:39 1999//
+/lang.c/1.10/Fri Apr 16 15:52:24 1999//
+/lang.h/1.11/Fri Apr 16 15:52:24 1999//
+/msg.c/1.17/Mon Mar  8 13:56:07 1999//
+/msg.h/1.5/Thu Feb 18 13:34:33 1999//
+/socials.c/1.3/Mon Mar  8 13:56:07 1999//
+/socials.h/1.3/Mon Feb 15 18:19:43 1999//
+/spellfn.c/1.13/Fri Apr 16 15:52:24 1999//
+/spellfn.h/1.13/Fri Apr 16 15:52:24 1999//
+D
